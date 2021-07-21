@@ -1,0 +1,14 @@
+name = "Property Modifier"
+filename = "propertymodifier-1.16.5-0.5.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3382/395/propertymodifier-1.16.5-0.5.5.jar"
+hash-format = "murmur2"
+hash = "1571539211"
+
+[update]
+[update.curseforge]
+file-id = 3382395
+project-id = 474822
+release-channel = "beta"

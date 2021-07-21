@@ -1,0 +1,14 @@
+name = "Not Enough Crashes (Forge)"
+filename = "notenoughcrashes-3.2.0-forge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3270/426/notenoughcrashes-3.2.0-forge.jar"
+hash-format = "murmur2"
+hash = "485068501"
+
+[update]
+[update.curseforge]
+file-id = 3270426
+project-id = 442354
+release-channel = "beta"

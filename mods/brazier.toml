@@ -1,0 +1,14 @@
+name = "Brazier (Forge)"
+filename = "brazier-3.0.9-forge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3353/3/brazier-3.0.9-forge.jar"
+hash-format = "murmur2"
+hash = "3384243858"
+
+[update]
+[update.curseforge]
+file-id = 3353003
+project-id = 402616
+release-channel = "beta"

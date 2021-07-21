@@ -1,0 +1,14 @@
+name = "Citadel"
+filename = "citadel-1.7.2-1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3390/28/citadel-1.7.2-1.16.5.jar"
+hash-format = "murmur2"
+hash = "279705279"
+
+[update]
+[update.curseforge]
+file-id = 3390028
+project-id = 331936
+release-channel = "beta"

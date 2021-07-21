@@ -1,0 +1,14 @@
+name = "NoMoWanderer"
+filename = "nomowanderer_MC1.16.5_1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3348/788/nomowanderer_MC1.16.5_1.2.jar"
+hash-format = "murmur2"
+hash = "2185617595"
+
+[update]
+[update.curseforge]
+file-id = 3348788
+project-id = 354428
+release-channel = "beta"

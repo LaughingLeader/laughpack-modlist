@@ -1,0 +1,14 @@
+name = "Plonk"
+filename = "plonk-1.16.5-9.0.8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3299/406/plonk-1.16.5-9.0.8.jar"
+hash-format = "murmur2"
+hash = "3322325304"
+
+[update]
+[update.curseforge]
+file-id = 3299406
+project-id = 345779
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Simple Sorter"
+filename = "simple_sorter-1.16.4-0.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3180/795/simple_sorter-1.16.4-0.0.1.jar"
+hash-format = "murmur2"
+hash = "2837278953"
+
+[update]
+[update.curseforge]
+file-id = 3180795
+project-id = 391807
+release-channel = "beta"

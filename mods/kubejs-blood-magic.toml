@@ -1,0 +1,14 @@
+name = "KubeJS Blood Magic"
+filename = "kubejs-blood-magic-1604.1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3158/133/kubejs-blood-magic-1604.1.0.4.jar"
+hash-format = "murmur2"
+hash = "292427143"
+
+[update]
+[update.curseforge]
+file-id = 3158133
+project-id = 428277
+release-channel = "beta"

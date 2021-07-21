@@ -1,0 +1,14 @@
+name = "Dimensional Dungeons"
+filename = "dimdungeons-1.12-forge-1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3338/690/dimdungeons-1.12-forge-1.16.5.jar"
+hash-format = "murmur2"
+hash = "2757465458"
+
+[update]
+[update.curseforge]
+file-id = 3338690
+project-id = 352222
+release-channel = "beta"

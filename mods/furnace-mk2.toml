@@ -1,0 +1,14 @@
+name = "Furnace Mk2"
+filename = "furnacemk2-1.16.5-0.1.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3326/146/furnacemk2-1.16.5-0.1.7.jar"
+hash-format = "murmur2"
+hash = "863077215"
+
+[update]
+[update.curseforge]
+file-id = 3326146
+project-id = 485243
+release-channel = "beta"

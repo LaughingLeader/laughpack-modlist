@@ -1,0 +1,14 @@
+name = "Better Game Menu [Forge&Fabric]"
+filename = "BetterGameMenu-1.16.5-1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3386/165/BetterGameMenu-1.16.5-1.0.jar"
+hash-format = "murmur2"
+hash = "1442946303"
+
+[update]
+[update.curseforge]
+file-id = 3386165
+project-id = 503115
+release-channel = "beta"
