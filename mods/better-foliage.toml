@@ -1,0 +1,14 @@
+name = "Better Foliage"
+filename = "BetterFoliage-2.6.5-Forge-1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3335/91/BetterFoliage-2.6.5-Forge-1.16.5.jar"
+hash-format = "murmur2"
+hash = "1714531387"
+
+[update]
+[update.curseforge]
+file-id = 3335091
+project-id = 228529
+release-channel = "beta"

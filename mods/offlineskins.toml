@@ -1,0 +1,14 @@
+name = "OfflineSkins"
+filename = "OfflineSkins-1.16.5-v2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3319/62/OfflineSkins-1.16.5-v2.jar"
+hash-format = "murmur2"
+hash = "3623066982"
+
+[update]
+[update.curseforge]
+file-id = 3319062
+project-id = 241420
+release-channel = "beta"

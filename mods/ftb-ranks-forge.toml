@@ -1,0 +1,14 @@
+name = "FTB Ranks (Forge)"
+filename = "ftb-ranks-1605.1.4-build.7-forge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3394/818/ftb-ranks-1605.1.4-build.7-forge.jar"
+hash-format = "murmur2"
+hash = "835588182"
+
+[update]
+[update.curseforge]
+file-id = 3394818
+project-id = 314905
+release-channel = "beta"

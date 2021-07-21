@@ -1,0 +1,14 @@
+name = "Traveler's Titles (Forge)"
+filename = "TravelersTitles-1.16.4-1.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3395/657/TravelersTitles-1.16.4-1.4.jar"
+hash-format = "murmur2"
+hash = "93015087"
+
+[update]
+[update.curseforge]
+file-id = 3395657
+project-id = 504908
+release-channel = "beta"

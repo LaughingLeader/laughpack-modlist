@@ -1,0 +1,14 @@
+name = "AppleSkin"
+filename = "appleskin-forge-mc1.16.x-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3358/19/appleskin-forge-mc1.16.x-2.0.0.jar"
+hash-format = "murmur2"
+hash = "1550512520"
+
+[update]
+[update.curseforge]
+file-id = 3358019
+project-id = 248787
+release-channel = "beta"

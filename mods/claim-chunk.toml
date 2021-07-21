@@ -1,0 +1,14 @@
+name = "Claim Chunk"
+filename = "ClaimChunk-1.16.2-1.0.0.8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3395/296/ClaimChunk-1.16.2-1.0.0.8.jar"
+hash-format = "murmur2"
+hash = "930915793"
+
+[update]
+[update.curseforge]
+file-id = 3395296
+project-id = 397443
+release-channel = "beta"

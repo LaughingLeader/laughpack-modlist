@@ -1,0 +1,14 @@
+name = "Selene"
+filename = "selene-1.16.5-1.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3392/984/selene-1.16.5-1.5.jar"
+hash-format = "murmur2"
+hash = "3431652637"
+
+[update]
+[update.curseforge]
+file-id = 3392984
+project-id = 499980
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Just Enough Calculation"
+filename = "JustEnoughCalculation-1.16.5-3.8.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3388/691/JustEnoughCalculation-1.16.5-3.8.1.jar"
+hash-format = "murmur2"
+hash = "71416387"
+
+[update]
+[update.curseforge]
+file-id = 3388691
+project-id = 242223
+release-channel = "beta"

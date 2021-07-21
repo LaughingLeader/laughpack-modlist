@@ -1,0 +1,14 @@
+name = "Builders Crafts & Additions (Forge)"
+filename = "buildersaddition-1.16.5-20210517a.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3312/723/buildersaddition-1.16.5-20210517a.jar"
+hash-format = "murmur2"
+hash = "3517232988"
+
+[update]
+[update.curseforge]
+file-id = 3312723
+project-id = 389697
+release-channel = "beta"

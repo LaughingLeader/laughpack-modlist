@@ -1,0 +1,14 @@
+name = "KubeJS Create"
+filename = "kubejs-create-1604.1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3169/448/kubejs-create-1604.1.0.4.jar"
+hash-format = "murmur2"
+hash = "457014825"
+
+[update]
+[update.curseforge]
+file-id = 3169448
+project-id = 429371
+release-channel = "beta"

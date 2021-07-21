@@ -1,0 +1,14 @@
+name = "JourneyMap"
+filename = "journeymap-1.16.5-5.7.2beta20.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3395/279/journeymap-1.16.5-5.7.2beta20.jar"
+hash-format = "murmur2"
+hash = "2692389593"
+
+[update]
+[update.curseforge]
+file-id = 3395279
+project-id = 32274
+release-channel = "beta"

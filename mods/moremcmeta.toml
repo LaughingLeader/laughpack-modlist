@@ -1,0 +1,14 @@
+name = "MoreMcmeta (Forge)"
+filename = "moremcmeta-1.16.5-3.0.0-forge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3393/127/moremcmeta-1.16.5-3.0.0-forge.jar"
+hash-format = "murmur2"
+hash = "2586008302"
+
+[update]
+[update.curseforge]
+file-id = 3393127
+project-id = 442169
+release-channel = "beta"

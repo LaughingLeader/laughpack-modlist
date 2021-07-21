@@ -1,0 +1,14 @@
+name = "Visual Workbench"
+filename = "VisualWorkbench-v1.0.3-1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3394/226/VisualWorkbench-v1.0.3-1.16.5.jar"
+hash-format = "murmur2"
+hash = "1332114289"
+
+[update]
+[update.curseforge]
+file-id = 3394226
+project-id = 500273
+release-channel = "beta"
