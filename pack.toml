@@ -5,8 +5,11 @@ version = "1.0.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "efe9b1422e5d4713a40221a39aff8d308fbea62a3194dfcd8dcbde176c574bef"
+hash = "688378efb775361054c8c99b4c7b7099863714326f764a2dee7aff10173212e6"
 
 [versions]
 forge = "36.1.65"
 minecraft = "1.16.5"
+
+[options]
+acceptable-game-versions = ["1.16.5", "1.16.4"]

@@ -516,6 +516,11 @@ hash = "812374daf389fc47cd84f611b9bb3dd4e4d4d2637faf3d5d86810545fb564c3c"
 metafile = true
 
 [[files]]
+file = "mods/kubejs-immersive-engineering.toml"
+hash = "11b62b4c25b14c532f90564a1eb1a01efce6577cd64771ceaa4da6af5230b8ad"
+metafile = true
+
+[[files]]
 file = "mods/lazy-dfu-forge.toml"
 hash = "bcb255ef19fee2e867f6605046da08f4857e401cfd98c3c0f92100ad53af821c"
 metafile = true

@@ -1,0 +1,14 @@
+name = "KubeJS Immersive Engineering"
+filename = "kubejs-immersive-engineering-1604.1.0.12.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3159/168/kubejs-immersive-engineering-1604.1.0.12.jar"
+hash-format = "murmur2"
+hash = "903475875"
+
+[update]
+[update.curseforge]
+file-id = 3159168
+project-id = 421770
+release-channel = "beta"
