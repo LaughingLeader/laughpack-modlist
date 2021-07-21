@@ -1,0 +1,14 @@
+name = "Sewing Kit"
+filename = "SewingKit-1.16.5-1.3.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3202/871/SewingKit-1.16.5-1.3.1.jar"
+hash-format = "murmur2"
+hash = "3376382339"
+
+[update]
+[update.curseforge]
+file-id = 3202871
+project-id = 411896
+release-channel = "beta"

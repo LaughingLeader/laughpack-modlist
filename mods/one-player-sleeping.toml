@@ -1,0 +1,14 @@
+name = "One Player Sleeping"
+filename = "oneplayersleeping-1.16.4-0.0.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3107/831/oneplayersleeping-1.16.4-0.0.5.jar"
+hash-format = "murmur2"
+hash = "2059971566"
+
+[update]
+[update.curseforge]
+file-id = 3107831
+project-id = 360272
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "WorldEditCUI Forge Edition 3"
+filename = "WorldEdit-CUI-FE3-1.16.5-3.0.9.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3191/632/WorldEdit-CUI-FE3-1.16.5-3.0.9.jar"
+hash-format = "murmur2"
+hash = "46645196"
+
+[update]
+[update.curseforge]
+file-id = 3191632
+project-id = 380401
+release-channel = "beta"

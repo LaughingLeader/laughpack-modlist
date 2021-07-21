@@ -321,6 +321,11 @@ hash = "6f1b50e26efd9ea63dba954e4cfe747b2a95c565a12e620439449326dc42b528"
 metafile = true
 
 [[files]]
+file = "mods/effortless-building.toml"
+hash = "44839791ce67343448f14b747b9db2e314524422f1e286dd5e5c680e7e47fccd"
+metafile = true
+
+[[files]]
 file = "mods/emojiful.toml"
 hash = "0f774c943bf29787449033d73acfb9f7d1d285ecd7494ab63d66f0c2bab08bec"
 metafile = true
@@ -333,6 +338,11 @@ metafile = true
 [[files]]
 file = "mods/ender-mail.toml"
 hash = "637619fd29670e1ae959e52de676c5b238ac6fb4228d4e42a5117fe7c964af66"
+metafile = true
+
+[[files]]
+file = "mods/endergetic.toml"
+hash = "cecf445e48995451f212bdd73101d8f063da201fee70f121cff7799ceb25242e"
 metafile = true
 
 [[files]]
@@ -451,6 +461,11 @@ hash = "e07e6f702597417f1b6d23466bb586d3353524cb3195f65db155123c1bfeeb61"
 metafile = true
 
 [[files]]
+file = "mods/inventory-pets.toml"
+hash = "b8d90bf327fdb85b404465ecefdb76ef2057d5254831c75542d9c5899d81fb95"
+metafile = true
+
+[[files]]
 file = "mods/jade.toml"
 hash = "afd510f1c881327d466a0eb89b79723bd459b1efb1487cde91b3a21d9d657cfe"
 metafile = true
@@ -546,6 +561,11 @@ hash = "104dc0c241070a9ed8b601ad70b125a0cc23ea70ecc30885e3bfe24c4696d218"
 metafile = true
 
 [[files]]
+file = "mods/mowzies-mobs.toml"
+hash = "ff8a165563b9b414186ea4dcc65be29236c167186715cb4467f56a5fd1007b5d"
+metafile = true
+
+[[files]]
 file = "mods/nomowanderer.toml"
 hash = "83e56d234780df38285779dea04da5046b3439e33ed894714925f98950b79c43"
 metafile = true
@@ -558,6 +578,11 @@ metafile = true
 [[files]]
 file = "mods/offlineskins.toml"
 hash = "973c40a18d4f8384990cf32decbffb7a89ce6902b20649d2e10c09e4f683422b"
+metafile = true
+
+[[files]]
+file = "mods/one-player-sleeping.toml"
+hash = "bd7afadf02a6a139c5f509433981876f380a16532d7a7c779d5737530f05f39a"
 metafile = true
 
 [[files]]
@@ -593,6 +618,11 @@ metafile = true
 [[files]]
 file = "mods/quark.toml"
 hash = "32a1e8920cc2dd267e48ebdf906d46cab46abaca9451d68dde16afb642ce8ef5"
+metafile = true
+
+[[files]]
+file = "mods/randompatches-forge.toml"
+hash = "dfae2a4bdab1d3b4878e52bccfdaf48c0a84428b8d27dd1aaabfc7c79eaeea14"
 metafile = true
 
 [[files]]
@@ -646,6 +676,11 @@ hash = "3632d86ee725b57e32c9ccde34d3ca493324a7602f555387d4518fc8e362622c"
 metafile = true
 
 [[files]]
+file = "mods/save-my-stronghold.toml"
+hash = "bb1a9b52250e6fdc729316761075e7d1979d67b00b99c68e3d4cb1b054838f11"
+metafile = true
+
+[[files]]
 file = "mods/selene.toml"
 hash = "1df79c491fd2376d17f8bab881e1305fc087c5b7ddc96d52823e05a25f3fcddf"
 metafile = true
@@ -653,6 +688,11 @@ metafile = true
 [[files]]
 file = "mods/server-tab-info.toml"
 hash = "e398f683cbb30ff1c688579f451d022e0afc30bb1088a54420820af543ea45a4"
+metafile = true
+
+[[files]]
+file = "mods/sewing-kit.toml"
+hash = "3ad2a947634e8de64ff25d95e00c9c3115de90536bbb9e953cbda32061b431df"
 metafile = true
 
 [[files]]
@@ -716,6 +756,11 @@ hash = "af6c11d13b0a9ae8cbba0af8a2cb7257f0587f6eb88689b6050dcbcb2a4fd11d"
 metafile = true
 
 [[files]]
+file = "mods/tool-belt.toml"
+hash = "96847ed6268ba397604a90a7a17374f066be4a36d57aff1e8db55509d719de52"
+metafile = true
+
+[[files]]
 file = "mods/travelers-titles.toml"
 hash = "29bd74da65c9cf28b1bfe3b9a56bafe1c5341035c0c64e98d1d8d4acc22a1eef"
 metafile = true
@@ -736,6 +781,11 @@ hash = "b4ea42dae4708d08a34c0aaac2eee40f2244cb0722e8f0b62416e8a01ffe73b4"
 metafile = true
 
 [[files]]
+file = "mods/wall-jump.toml"
+hash = "89efdf6491aaa027d2a40676d5334797510d31c35cdf91e7e05221ba9f8aee62"
+metafile = true
+
+[[files]]
 file = "mods/wawla.toml"
 hash = "2c0a030e3dfaeee6a5fd383677f88e171f642b47d18dc95a715b53c0975db0ae"
 metafile = true
@@ -746,11 +796,36 @@ hash = "039ccb164a8e4dc7dcdc338202fba9e31d95e53211a49acdd1cbe7950a8cddeb"
 metafile = true
 
 [[files]]
+file = "mods/worldedit.toml"
+hash = "49a1806ba0f3288451f5e13f1b8125b0f3799978f6402b81cf09c5deb27cddc2"
+metafile = true
+
+[[files]]
+file = "mods/worldeditcui-forge-edition-3.toml"
+hash = "d2e6f61b2e6616bca12febd5c35337640128e5676e18abc51c2337054f831266"
+metafile = true
+
+[[files]]
 file = "mods/yungs-api.toml"
 hash = "b6ac554b43759c27bc54a916acd80957292bf981b5a82d70c75aee56b7860626"
 metafile = true
 
 [[files]]
+file = "mods/yungs-better-caves.toml"
+hash = "e9844fd41a8d2878df4f0a7f2bc4776f08f419f3015613589f94aa211d14aae7"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts-forge.toml"
+hash = "07998888e7314292d0aa0352ebc703b5aa7e8d1f37f4f51fc6c1b5284b4ec085"
+metafile = true
+
+[[files]]
 file = "mods/yungs-better-strongholds.toml"
 hash = "246e2bb3031bae0dc3944e3dccf952d203f0290eb4f5dc576c04e5147c93c29b"
+metafile = true
+
+[[files]]
+file = "mods/yungs-extras.toml"
+hash = "c30bbead295e71357875114b48a7d17c9ecf819419c03978db1ed4b311cba886"
 metafile = true
