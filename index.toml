@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-advancements.toml"
-hash = "df990a640251c0a4199da5ec3e727a243657bc06450fcd0db09ec2dbbd1293a7"
+hash = "0c690e05337953c00df8c6da4f1b1d9486a864292994f312b07bee1d41a6ce40"
 metafile = true
 
 [[files]]
@@ -82,12 +82,12 @@ metafile = true
 
 [[files]]
 file = "mods/better-foliage.toml"
-hash = "df24df6bc52d8c8637f21dec6c2d5c3756d03dab1b75f025c3ede1fdd81a6a22"
+hash = "80dbf2e381938b1f1b210d08a401fd64cfbd2b2cfac2a3c852165efb15d2a8b5"
 metafile = true
 
 [[files]]
 file = "mods/better-game-menu.toml"
-hash = "e23a1dd7bac7620bd8fb9878ea77bb68a9ee2927ea164d2d2315881099368214"
+hash = "c6fd448a4a074eca705ccef2f7eaf34f24b12df0d3078c882fcfbc34746bb96f"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatsound.toml"
-hash = "0f10936a065eb7b814a26f9471bf1775eae533165bc4082b655229a62d81b992"
+hash = "984337bfa29bf81e7faaead2864f9cf8dc5babce864567761182b9a0f9062fe3"
 metafile = true
 
 [[files]]
@@ -262,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-player-models.toml"
-hash = "44182bf8f39b6f6ca143bf0254dc146533c48dc7879a4c98db452814fe4a7e32"
+hash = "ce5d91b53c2d9ccd8652707183b8e5df56a21d8fcb4e0b2521e0cda2eaa69ae2"
 metafile = true
 
 [[files]]
@@ -287,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/ding.toml"
-hash = "50187a8fa97ea2cae84a2fe91ae593706a3da6c4eb07dedb64c5a4c84c819c7c"
+hash = "33a8729fcb9376e1910c40003626003913d3bb43199dd8cd02bf2034b5b865a7"
 metafile = true
 
 [[files]]
@@ -332,12 +332,12 @@ metafile = true
 
 [[files]]
 file = "mods/emojiful.toml"
-hash = "0f774c943bf29787449033d73acfb9f7d1d285ecd7494ab63d66f0c2bab08bec"
+hash = "eee7598ac98bdaae1b63b352b5e73f7f5976737141e43f224d4f874478302106"
 metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.toml"
-hash = "cce99fad012b107918691fd76b8e07f8b9566d7bc8dd61c08d373d72aefd8871"
+hash = "c51ce60071a4193e30b590b94def771508a9f59c4cce8f94655dc6fe3566c0e0"
 metafile = true
 
 [[files]]
@@ -377,12 +377,12 @@ metafile = true
 
 [[files]]
 file = "mods/extreme-sound-muffler.toml"
-hash = "5f3dfc3ea53f8311542c5d2341ee82cc1450a59c5b7b952195473549b129f2c4"
+hash = "51a03d6af665b7e5a600ea8819cf4993bca1e28f1c3002ed0c660efbf6ff4b1b"
 metafile = true
 
 [[files]]
 file = "mods/fancymenu.toml"
-hash = "971da682b80b620155d7e5f8cace79929ea3e0e8c193bba239702773bd8dafc6"
+hash = "52a09873eb822422647eea9d6831d1175a2e531b74b3c8de39e4ec035d5ddcca"
 metafile = true
 
 [[files]]
@@ -417,7 +417,7 @@ metafile = true
 
 [[files]]
 file = "mods/fps-reducer.toml"
-hash = "20dd007a1948ad4b73147523072fcf6ef39ab255b49ba4c957a20eab650efe07"
+hash = "849528555cfb8bd000ff6f7333776bd8288cdbab083e3d4d3931aa088a96431a"
 metafile = true
 
 [[files]]
@@ -482,7 +482,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.toml"
-hash = "953cd9154e04d89629a6f93f60d3aa4bd150535ba4eeeaf9acd0619f4aa21d96"
+hash = "4c74c7a81ac903d30adc9d0942565a63f7d3d90669ac6e1c0892bdbae777fb1a"
 metafile = true
 
 [[files]]
@@ -582,12 +582,12 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-crashes-forge.toml"
-hash = "94d63e3afc43ff0736aafa893d4bf88019bd6497666757ebc51501788d34ea6c"
+hash = "f9dae5bc129cf507c0d65b20149dfff2a7f3ec61b066374229979c6417eae464"
 metafile = true
 
 [[files]]
 file = "mods/offlineskins.toml"
-hash = "973c40a18d4f8384990cf32decbffb7a89ce6902b20649d2e10c09e4f683422b"
+hash = "fa699528fe32e09ca36601445b4248743a647cb92eda9790d495eb9c1913d458"
 metafile = true
 
 [[files]]
@@ -677,7 +677,7 @@ metafile = true
 
 [[files]]
 file = "mods/reload-audio-driver-rad.toml"
-hash = "d2d856f0e8c241398f5fc95976a36d5d608a9abc28ea48a9178b1872bbeb5010"
+hash = "6c5e808614195bb0a500873d2eaa54f9347ccfb909c611ef98a7e0375d1316ed"
 metafile = true
 
 [[files]]
@@ -697,7 +697,7 @@ metafile = true
 
 [[files]]
 file = "mods/security-craft.toml"
-hash = "2eb757a49c129ecbbef9e1ecf5be93e890cbd434716d5a7759e70081e35b392a"
+hash = "9ee56e7f492af709375814c669ec956dcc7e98a9ea148f87d6fd47d365b2fa82"
 metafile = true
 
 [[files]]
@@ -707,7 +707,7 @@ metafile = true
 
 [[files]]
 file = "mods/server-tab-info.toml"
-hash = "e398f683cbb30ff1c688579f451d022e0afc30bb1088a54420820af543ea45a4"
+hash = "14e9592e0f4e8a40f42aa96ee76e00f4f6a5a99196a99a584babb2e2d8684794"
 metafile = true
 
 [[files]]
@@ -762,7 +762,7 @@ metafile = true
 
 [[files]]
 file = "mods/toast-control.toml"
-hash = "ce5ebd023e72867887a3975ff4c535a1fbb9c7e5034e55da842bd8fc419046e0"
+hash = "0e89aacea2d0a878b6a00f03399b0dd1abed3967c34d733b2073ef37a91d6969"
 metafile = true
 
 [[files]]
@@ -782,12 +782,12 @@ metafile = true
 
 [[files]]
 file = "mods/trashslot.toml"
-hash = "8918d0dd2f64b8a2ad63673e7a3600d973fe33641a9dc6660fca1a023c52a3b2"
+hash = "fb97d2e1210f444d13f8cb150eb592a36d4dce16555285371bf6f733dd896284"
 metafile = true
 
 [[files]]
 file = "mods/travelers-titles.toml"
-hash = "29bd74da65c9cf28b1bfe3b9a56bafe1c5341035c0c64e98d1d8d4acc22a1eef"
+hash = "3f3513d7cb4ffa91fa55f1f35fb3595f84afd4d8f419c3ec36c59abd1359fdb5"
 metafile = true
 
 [[files]]
@@ -827,7 +827,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldeditcui-forge-edition-3.toml"
-hash = "d2e6f61b2e6616bca12febd5c35337640128e5676e18abc51c2337054f831266"
+hash = "9e8176e1e3984d999a0fdb4cb313a866d4ec311623e7dcceba806ff39427c350"
 metafile = true
 
 [[files]]
@@ -854,3 +854,7 @@ metafile = true
 file = "mods/yungs-extras.toml"
 hash = "c30bbead295e71357875114b48a7d17c9ecf819419c03978db1ed4b311cba886"
 metafile = true
+
+[[files]]
+file = "packwiz"
+hash = "44cb9e5edf61815e1ce42c3cf9ee20bd037512966dbb47a5e8b83c6ea55ec867"
