@@ -1,7 +1,11 @@
 name = "WorldEditCUI Forge Edition 3"
 filename = "WorldEdit-CUI-FE3-1.16.5-3.0.9.jar"
 side = "client"
+
+[option]
 optional = true
+description = "WorldEdit visualization for moderators/admins."
+default = false
 
 [download]
 url = "https://edge.forgecdn.net/files/3191/632/WorldEdit-CUI-FE3-1.16.5-3.0.9.jar"
