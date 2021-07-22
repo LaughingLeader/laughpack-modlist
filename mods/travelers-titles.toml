@@ -1,6 +1,11 @@
 name = "Traveler's Titles (Forge)"
 filename = "TravelersTitles-1.16.4-1.4.jar"
-side = "both"
+side = "client"
+
+[option]
+optional = true
+description = "Traveler's Titles is a simple client-side mod that adds RPG-like titles when entering biomes or dimensions. Completely customizable - change text size, color, location, duration, & more."
+default = true
 
 [download]
 url = "https://edge.forgecdn.net/files/3395/657/TravelersTitles-1.16.4-1.4.jar"
