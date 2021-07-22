@@ -1,7 +1,11 @@
 name = "Better Foliage"
 filename = "BetterFoliage-2.6.5-Forge-1.16.5.jar"
 side = "client"
+
+[option]
 optional = true
+description = "Better Foliage improves the way vegetation looks."
+default = true
 
 [download]
 url = "https://edge.forgecdn.net/files/3335/91/BetterFoliage-2.6.5-Forge-1.16.5.jar"
