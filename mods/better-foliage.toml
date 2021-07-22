@@ -1,7 +1,11 @@
 name = "Better Foliage"
 filename = "BetterFoliage-2.6.5-Forge-1.16.5.jar"
 side = "client"
+
+[option]
 optional = true
+description = "Better Foliage is a mod that will make your Minecraft worlds more impressive, mainly by improving how vegetation looks. It strives to be compatible with other visual enhancement mods (Optifine, Shaders Mod, etc.)."
+default = true
 
 [download]
 url = "https://edge.forgecdn.net/files/3335/91/BetterFoliage-2.6.5-Forge-1.16.5.jar"

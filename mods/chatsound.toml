@@ -1,7 +1,11 @@
 name = "Chat Sound"
 filename = "1.16.5ChatSound-1.0.3.jar"
 side = "client"
+
+[option]
 optional = true
+description = "Adds sounds to Minecraft's chat. Plays sounds when you get a message. Plays a special sound when someone says your name."
+default = true
 
 [download]
 url = "https://edge.forgecdn.net/files/3393/319/%5B1.16.5%5DChatSound-1.0.3.jar"
