@@ -1,0 +1,19 @@
+name = "TrashSlot"
+filename = "TrashSlot_1.16.3-12.2.1.jar"
+side = "both"
+
+[option]
+optional = true
+description = "This mod adds a trash slot to your inventory, allowing you to quickly and safely get rid of unwanted items. The trash slot keeps the last deleted item stored to allow you to take your trash back out. It can be dragged around and enabled or disabled in nearly every screen."
+default = true
+
+[download]
+url = "https://edge.forgecdn.net/files/3098/221/TrashSlot_1.16.3-12.2.1.jar"
+hash-format = "murmur2"
+hash = "85186671"
+
+[update]
+[update.curseforge]
+file-id = 3098221
+project-id = 235577
+release-channel = "beta"

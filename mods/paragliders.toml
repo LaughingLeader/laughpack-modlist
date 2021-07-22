@@ -1,0 +1,14 @@
+name = "Paragliders"
+filename = "Paraglider-1.16.5-1.3.2.0-beta.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3372/419/Paraglider-1.16.5-1.3.2.0-beta.4.jar"
+hash-format = "murmur2"
+hash = "3187161882"
+
+[update]
+[update.curseforge]
+file-id = 3372419
+project-id = 289240
+release-channel = "beta"
