@@ -1,19 +1,19 @@
 name = "JourneyMap"
-filename = "journeymap-1.16.5-5.7.2beta20.jar"
+filename = "journeymap-1.16.5-5.7.2.jar"
 side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3396/700/journeymap-1.16.5-5.7.2.jar"
+hash-format = "murmur2"
+hash = "4183529556"
+
+[update]
+[update.curseforge]
+file-id = 3396700
+project-id = 32274
+release-channel = "beta"
 
 [option]
 optional = true
 description = "JourneyMap maps your Minecraft world in real-time as you explore. You can view the map in-game as a Minimap or full-screen. Supports displaying players and other creatures on the map and minimap as well."
 default = true
-
-[download]
-url = "https://edge.forgecdn.net/files/3395/279/journeymap-1.16.5-5.7.2beta20.jar"
-hash-format = "murmur2"
-hash = "2692389593"
-
-[update]
-[update.curseforge]
-file-id = 3395279
-project-id = 32274
-release-channel = "beta"

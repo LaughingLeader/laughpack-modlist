@@ -1,14 +1,14 @@
 name = "Advancement Plaques"
-filename = "AdvancementPlaques-1.16.5-1.2.2.jar"
+filename = "AdvancementPlaques-1.16.5-1.2.4.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3395/375/AdvancementPlaques-1.16.5-1.2.2.jar"
+url = "https://edge.forgecdn.net/files/3396/237/AdvancementPlaques-1.16.5-1.2.4.jar"
 hash-format = "murmur2"
-hash = "752149823"
+hash = "1873264086"
 
 [update]
 [update.curseforge]
-file-id = 3395375
+file-id = 3396237
 project-id = 499826
 release-channel = "beta"

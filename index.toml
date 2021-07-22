@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/advancement-plaques.toml"
-hash = "40b5cf8f84cac92091ab7cfb103ed4c9d267c206add497accc6e21024fa5e713"
+hash = "c4e5d6c672e08de053f1459f69fd7bab72a514d68e776a4806800062a8f68b50"
 metafile = true
 
 [[files]]
@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.toml"
-hash = "5d07c312297892a35146d6867307993b88393237d773c31335d845e19ac0ee4d"
+hash = "0e5929448f3105c10e8df986c97e9b1c2192cbcd6165c31c3fbcdd8103e3c9be"
 metafile = true
 
 [[files]]
@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/claim-chunk.toml"
-hash = "7e87dc9008d413d9a318ac914de6f91e0a7bc6d0fb6823ebd481453ae6e15fd5"
+hash = "3ea55f3b2ab2b120093601c7eeb3f68b8ccc0c10c8c88243380533dd3252f2bd"
 metafile = true
 
 [[files]]
@@ -482,7 +482,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.toml"
-hash = "6e66e793847ca9cae4727e0a2172c17e742f0174247230651b7d652842bdbaf6"
+hash = "953cd9154e04d89629a6f93f60d3aa4bd150535ba4eeeaf9acd0619f4aa21d96"
 metafile = true
 
 [[files]]
@@ -627,7 +627,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.toml"
-hash = "660216627da49cfd72ab8c3008d0537f47298fa1561fe7cc26c0a31aba582be1"
+hash = "8ff914f37c330052cf1379822e4d77b660026e3e6d9c86fcf58ccbabebfcf8c9"
 metafile = true
 
 [[files]]
@@ -722,7 +722,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "d7671ad5de2c7923c9a44b75e6549238cab9350c9f1a2152a886702045e5fafa"
+hash = "b8079ada915206f19c34932fff07f68496b0a976b6cd973aa2450b754431185e"
 metafile = true
 
 [[files]]
