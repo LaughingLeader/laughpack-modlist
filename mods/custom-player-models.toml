@@ -1,6 +1,7 @@
 name = "Customizable Player Models"
 filename = "CustomPlayerModels-1.16-0.0.17d.jar"
 side = "both"
+optional = true
 
 [download]
 url = "https://edge.forgecdn.net/files/3394/955/CustomPlayerModels-1.16-0.0.17d.jar"
