@@ -4,8 +4,8 @@ side = "client"
 
 [option]
 optional = true
-description = "Better Foliage improves the way vegetation looks."
-default = true
+description = "Better Foliage improves the way vegetation looks, including grass, bushes, and trees. May lower FPS and increase loading times, but trees and grass look very nice with this."
+default = false
 
 [download]
 url = "https://edge.forgecdn.net/files/3335/91/BetterFoliage-2.6.5-Forge-1.16.5.jar"

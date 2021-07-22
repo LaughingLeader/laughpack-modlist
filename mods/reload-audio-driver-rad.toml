@@ -5,7 +5,7 @@ side = "client"
 [option]
 optional = true
 description = "RAD is a simple, client-side only mod which allows you to reload the audio driver / sound library by pressing F3 + R. It also appears on the list when you press F3 + Q. Useful for getting Minecraft to work with changed sound devices after the fact (i.e. plugging in headphones)."
-default = false
+default = true
 
 [download]
 url = "https://edge.forgecdn.net/files/3280/843/rad-1.16-4.1.1.jar"
