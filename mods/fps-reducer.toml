@@ -1,7 +1,11 @@
 name = "FPS Reducer"
 filename = "FpsReducer-mc1.16.5-1.20.jar"
 side = "client"
+
+[option]
 optional = true
+description = "This mod reduces unnecessary GPU and CPU load by reducing the frame rate automatically when you are not operating the Minecraft for a certain period of time. As soon as the user performs any operation, it returns to the original frame rate."
+default = false
 
 [download]
 url = "https://edge.forgecdn.net/files/3362/165/FpsReducer-mc1.16.5-1.20.jar"

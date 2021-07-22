@@ -1,7 +1,11 @@
 name = "Emojiful"
 filename = "emojiful-1.16.4-2.1.4.jar"
 side = "client"
+
+[option]
 optional = true
+description = "Emoji support for in-game chat."
+default = true
 
 [download]
 url = "https://edge.forgecdn.net/files/3184/796/emojiful-1.16.4-2.1.4.jar"

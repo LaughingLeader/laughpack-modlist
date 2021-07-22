@@ -1,7 +1,11 @@
 name = "Customizable Player Models"
 filename = "CustomPlayerModels-1.16-0.0.17d.jar"
 side = "both"
+
+[option]
 optional = true
+description = "Customize your minecraft avatar! Allows extensive player model customization using an in-game editor."
+default = false
 
 [download]
 url = "https://edge.forgecdn.net/files/3394/955/CustomPlayerModels-1.16-0.0.17d.jar"

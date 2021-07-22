@@ -1,7 +1,11 @@
 name = "Extreme Sound Muffler (Forge)"
 filename = "extremeSoundMuffler-3.13-1.16.5.jar"
 side = "both"
+
+[option]
 optional = true
+description = "Extreme sound muffler is a mod that allows you to muffle sounds selectively, letting you to set the volume of individual sounds."
+default = true
 
 [download]
 url = "https://edge.forgecdn.net/files/3345/51/extremeSoundMuffler-3.13-1.16.5.jar"

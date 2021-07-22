@@ -1,7 +1,11 @@
 name = "Server Tab Info"
 filename = "ServerTabInfo-1.16.4-1.3.3.jar"
 side = "both"
+
+[option]
 optional = true
+description = "Allows you to view 'ticks per second' in the regular player list."
+default = false
 
 [download]
 url = "https://edge.forgecdn.net/files/3118/698/ServerTabInfo-1.16.4-1.3.3.jar"

@@ -1,7 +1,11 @@
 name = "JourneyMap"
 filename = "journeymap-1.16.5-5.7.2beta20.jar"
 side = "both"
+
+[option]
 optional = true
+description = "JourneyMap maps your Minecraft world in real-time as you explore. You can view the map in-game as a Minimap or full-screen. Supports displaying players and other creatures on the map and minimap as well."
+default = true
 
 [download]
 url = "https://edge.forgecdn.net/files/3395/279/journeymap-1.16.5-5.7.2beta20.jar"

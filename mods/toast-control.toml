@@ -1,7 +1,11 @@
 name = "Toast Control"
 filename = "Toast-Control-1.16.4-4.3.1.jar"
 side = "client"
+
+[option]
 optional = true
+description = "Allows you to control what toasts (notifications) show up in Minecraft. By default, Minecraft shows you all toasts, including toasts for Recipes, Advancements, the Narrator, and Tutorials."
+default = true
 
 [download]
 url = "https://edge.forgecdn.net/files/3172/881/Toast-Control-1.16.4-4.3.1.jar"
