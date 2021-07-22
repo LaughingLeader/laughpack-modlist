@@ -4,7 +4,7 @@ side = "client"
 
 [option]
 optional = true
-description = "Better Foliage is a mod that will make your Minecraft worlds more impressive, mainly by improving how vegetation looks. It strives to be compatible with other visual enhancement mods (Optifine, Shaders Mod, etc.)."
+description = "Better Foliage improves the way vegetation looks."
 default = true
 
 [download]
