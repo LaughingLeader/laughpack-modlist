@@ -1,6 +1,7 @@
-name = "Extreme sound muffler (Forge)"
+name = "Extreme Sound Muffler (Forge)"
 filename = "extremeSoundMuffler-3.13-1.16.5.jar"
 side = "both"
+optional = true
 
 [download]
 url = "https://edge.forgecdn.net/files/3345/51/extremeSoundMuffler-3.13-1.16.5.jar"

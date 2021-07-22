@@ -1,6 +1,7 @@
 name = "Better Game Menu [Forge&Fabric]"
 filename = "BetterGameMenu-1.16.5-1.0.jar"
-side = "both"
+side = "client"
+optional = true
 
 [download]
 url = "https://edge.forgecdn.net/files/3386/165/BetterGameMenu-1.16.5-1.0.jar"

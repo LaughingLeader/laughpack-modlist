@@ -1,6 +1,7 @@
 name = "Better Advancements"
 filename = "BetterAdvancements-1.16.5-0.1.1.109.jar"
-side = "both"
+side = "client"
+optional = true
 
 [download]
 url = "https://edge.forgecdn.net/files/3364/386/BetterAdvancements-1.16.5-0.1.1.109.jar"

@@ -1,6 +1,7 @@
 name = "Enchantment Descriptions"
 filename = "EnchantmentDescriptions-1.16.5-7.0.14.jar"
-side = "both"
+side = "client"
+optional = true
 
 [download]
 url = "https://edge.forgecdn.net/files/3363/585/EnchantmentDescriptions-1.16.5-7.0.14.jar"

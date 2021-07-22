@@ -1,6 +1,7 @@
 name = "FPS Reducer"
 filename = "FpsReducer-mc1.16.5-1.20.jar"
-side = "both"
+side = "client"
+optional = true
 
 [download]
 url = "https://edge.forgecdn.net/files/3362/165/FpsReducer-mc1.16.5-1.20.jar"

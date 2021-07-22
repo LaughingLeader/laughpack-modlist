@@ -1,6 +1,7 @@
 name = "JourneyMap"
 filename = "journeymap-1.16.5-5.7.2beta20.jar"
 side = "both"
+optional = true
 
 [download]
 url = "https://edge.forgecdn.net/files/3395/279/journeymap-1.16.5-5.7.2beta20.jar"

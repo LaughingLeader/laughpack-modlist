@@ -211,6 +211,11 @@ hash = "30b2c5a50e6107dbf36bccc2a3870653ba6baf20ad74ef473ad13485e20d633e"
 metafile = true
 
 [[files]]
+file = "mods/corail-tombstone.toml"
+hash = "5085fad3ac79f3ff1a1c7dcb1a0eae65cbb2c00f08de5b47d5c4c4c1316401c8"
+metafile = true
+
+[[files]]
 file = "mods/cosmetic-armor-reworked.toml"
 hash = "9eb21b9ad2c67c9f125b6295936e949a16691bd685e5371ef1eed6108262f597"
 metafile = true
@@ -223,11 +228,6 @@ metafile = true
 [[files]]
 file = "mods/create-stuff-additions.toml"
 hash = "a691033ae0cb02a96ebbbb1b3a7fe6cdab8385a33db350e9a83dc26c72e5dc1a"
-metafile = true
-
-[[files]]
-file = "mods/create-style-vanilla-redstone-toms-simple-storage.toml"
-hash = "be8086db17a01b3c067e1331407d309022445e48563cfc8d9efee7c3695fd2df"
 metafile = true
 
 [[files]]
@@ -343,11 +343,6 @@ metafile = true
 [[files]]
 file = "mods/endergetic.toml"
 hash = "cecf445e48995451f212bdd73101d8f063da201fee70f121cff7799ceb25242e"
-metafile = true
-
-[[files]]
-file = "mods/enigmatic-graves.toml"
-hash = "c877dc5cbc18481552b5012596c4b43c7418f7552bbc0f0ce31578733e3da49b"
 metafile = true
 
 [[files]]

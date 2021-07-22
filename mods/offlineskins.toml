@@ -1,6 +1,6 @@
 name = "OfflineSkins"
 filename = "OfflineSkins-1.16.5-v2.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3319/62/OfflineSkins-1.16.5-v2.jar"
