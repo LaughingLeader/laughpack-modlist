@@ -161,6 +161,11 @@ hash = "984337bfa29bf81e7faaead2864f9cf8dc5babce864567761182b9a0f9062fe3"
 metafile = true
 
 [[files]]
+file = "mods/chisel.toml"
+hash = "e8c451cfe67c2252903daa7e89d076fb7428f3932aad01758396d51c743e2ece"
+metafile = true
+
+[[files]]
 file = "mods/citadel.toml"
 hash = "5598bf7661a1384e41b9fe41c39eb277c22e3bf7c62f2461d1e3d2ad7b3aea9e"
 metafile = true
@@ -238,6 +243,11 @@ metafile = true
 [[files]]
 file = "mods/create.toml"
 hash = "25407715b83955036d0755c7509add04d0bc16d95ca8ccde1bd2f787b92f33a0"
+metafile = true
+
+[[files]]
+file = "mods/ctm.toml"
+hash = "b31e36a0365b7e917cbdc688c34a2b48936072b45607c9574bd167502d8dd0c3"
 metafile = true
 
 [[files]]
@@ -353,6 +363,11 @@ metafile = true
 [[files]]
 file = "mods/endergetic.toml"
 hash = "cecf445e48995451f212bdd73101d8f063da201fee70f121cff7799ceb25242e"
+metafile = true
+
+[[files]]
+file = "mods/engineers-decor.toml"
+hash = "807c051e98a002aa2b55d76d8501f041a9a26f354ce949c883e3f439ff08c7eb"
 metafile = true
 
 [[files]]
