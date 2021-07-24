@@ -1,0 +1,14 @@
+name = "Assorted Decor"
+filename = "assorteddecor-1.16.5-2.0.13.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3323/558/assorteddecor-1.16.5-2.0.13.jar"
+hash-format = "murmur2"
+hash = "3294433698"
+
+[update]
+[update.curseforge]
+file-id = 3323558
+project-id = 416069
+release-channel = "beta"

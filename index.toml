@@ -36,6 +36,11 @@ hash = "023137671c3106fd53fb3d7b54f578daef776d91581151462269e5cdec600033"
 metafile = true
 
 [[files]]
+file = "mods/assorted-decor.toml"
+hash = "9650564d65cfaabca71eeb75fe6159cba22320442bf1da35bb76a95d95195cac"
+metafile = true
+
+[[files]]
 file = "mods/atmospheric.toml"
 hash = "571f49b0fbd8380db99910cbcb3c7575b0da22cae507e61e2b77fca4be081c92"
 metafile = true
@@ -116,11 +121,6 @@ hash = "33804e31cd6c3cad39a9f61d6e45b87586c9be3efeca0cc28a02752865a3b554"
 metafile = true
 
 [[files]]
-file = "mods/buildersaddition.toml"
-hash = "09961c21c3d34869ab40c9124d5bf534e1345744ea20c27ccae67c49aac761ec"
-metafile = true
-
-[[files]]
 file = "mods/building-gadgets.toml"
 hash = "ddf074d875f2ae1e320860e8ca375e0773a2ec7fb39a47e90c5b01f4b8564704"
 metafile = true
@@ -153,6 +153,11 @@ metafile = true
 [[files]]
 file = "mods/cc-tweaked.toml"
 hash = "da397a5b0cd8bbc08db9f901adec26efbe6a8426206f836cc041bb2f9a80729e"
+metafile = true
+
+[[files]]
+file = "mods/ceramics.toml"
+hash = "c9ef0996f957dfa99ecb152fc88207a94e6988fa80118bd5bc3849730d82b021"
 metafile = true
 
 [[files]]
@@ -203,11 +208,6 @@ metafile = true
 [[files]]
 file = "mods/comforts.toml"
 hash = "ea18992369acda1e754c862729ca63f89662d095ada8d25f3cefc9880c4b07e1"
-metafile = true
-
-[[files]]
-file = "mods/compact-ores.toml"
-hash = "70c20028fe5ea61441fb97dd06cddce205192ded63e0ed505f542407d6eac1e3"
 metafile = true
 
 [[files]]
@@ -273,6 +273,16 @@ metafile = true
 [[files]]
 file = "mods/custom-player-models.toml"
 hash = "ce5d91b53c2d9ccd8652707183b8e5df56a21d8fcb4e0b2521e0cda2eaa69ae2"
+metafile = true
+
+[[files]]
+file = "mods/decorative-blocks-modded-compat.toml"
+hash = "b896dc4b7b52cf3d1a2e75fc858ce3aae932585f63d68feb547f5dcab419a6f7"
+metafile = true
+
+[[files]]
+file = "mods/decorative-blocks.toml"
+hash = "f4b9d31b2c62d5232918d87a47adfc14b028c5141c2dd3a9aa8b5159531462c0"
 metafile = true
 
 [[files]]
@@ -371,6 +381,11 @@ hash = "807c051e98a002aa2b55d76d8501f041a9a26f354ce949c883e3f439ff08c7eb"
 metafile = true
 
 [[files]]
+file = "mods/engineers-tools.toml"
+hash = "3b1138e4a95f6984617e913dc693d864e02badeaa681db31b259fb1416fa5f5a"
+metafile = true
+
+[[files]]
 file = "mods/entity-culling.toml"
 hash = "8da30365a9abe56959ade8d381846ce5853972916671d89a3d050328deb68318"
 metafile = true
@@ -431,6 +446,11 @@ hash = "44c540d234d8847942fad5edf368f32bdd7b3eff1541e67a97bf3a57198cacbf"
 metafile = true
 
 [[files]]
+file = "mods/forgeendertech.toml"
+hash = "dc126f6b94ade7df94f6d9439ac546a4194041c6234a00129a5a9dedf0c1b285"
+metafile = true
+
+[[files]]
 file = "mods/fps-reducer.toml"
 hash = "849528555cfb8bd000ff6f7333776bd8288cdbab083e3d4d3931aa088a96431a"
 metafile = true
@@ -458,6 +478,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.toml"
 hash = "2abb000ddac04fe76e1ec2556571f2168b394779d01b6f9f017c146b75980285"
+metafile = true
+
+[[files]]
+file = "mods/glassential.toml"
+hash = "232296ebc4cd10b24946c08c8be8a20e83634c98ff2eeff1dd55e140c04e7513"
 metafile = true
 
 [[files]]
@@ -541,6 +566,11 @@ hash = "11b62b4c25b14c532f90564a1eb1a01efce6577cd64771ceaa4da6af5230b8ad"
 metafile = true
 
 [[files]]
+file = "mods/large-ore-deposits.toml"
+hash = "6c2709975bf368f3c1519394ee0996a939619d429fb8809f24a11c80f9f4340b"
+metafile = true
+
+[[files]]
 file = "mods/lazy-dfu-forge.toml"
 hash = "bcb255ef19fee2e867f6605046da08f4857e401cfd98c3c0f92100ad53af821c"
 metafile = true
@@ -558,6 +588,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-windows.toml"
 hash = "0a1aa803ddd659182a3c9b88e52a4f75af062c07ac4eb1eeff56f57ed3c2d4b9"
+metafile = true
+
+[[files]]
+file = "mods/mantle.toml"
+hash = "2e4a4fd036eb14ad5539740ec4e838d2c6c53fe2111abcf0306c041cc72b142a"
 metafile = true
 
 [[files]]
@@ -721,6 +756,11 @@ hash = "1df79c491fd2376d17f8bab881e1305fc087c5b7ddc96d52823e05a25f3fcddf"
 metafile = true
 
 [[files]]
+file = "mods/serene-seasons.toml"
+hash = "81fca95c911079a28a3650ac83f0da8b35249af165b00df568b2daf27ef7d7f3"
+metafile = true
+
+[[files]]
 file = "mods/server-tab-info.toml"
 hash = "14e9592e0f4e8a40f42aa96ee76e00f4f6a5a99196a99a584babb2e2d8684794"
 metafile = true
@@ -773,6 +813,11 @@ metafile = true
 [[files]]
 file = "mods/time-control.toml"
 hash = "94c1e25ad13624d6ba388bcb0a4f508a72ed96e82b5ef36968baa1c597f19ecd"
+metafile = true
+
+[[files]]
+file = "mods/to-the-bat-poles.toml"
+hash = "f5aa8fe19aa4a3111895a90cbeed15b1fdd618976f8e6a6575a791ac1957ee3e"
 metafile = true
 
 [[files]]
