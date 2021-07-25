@@ -1,14 +1,14 @@
 name = "Small Ships"
-filename = "smallships-1.16.5-1.9.0.jar"
+filename = "smallships-1.16.5-1.9.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3381/331/smallships-1.16.5-1.9.0.jar"
+url = "https://edge.forgecdn.net/files/3400/403/smallships-1.16.5-1.9.1.jar"
 hash-format = "murmur2"
-hash = "2299235835"
+hash = "2908483930"
 
 [update]
 [update.curseforge]
-file-id = 3381331
+file-id = 3400403
 project-id = 450659
 release-channel = "beta"

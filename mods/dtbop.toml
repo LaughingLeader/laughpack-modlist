@@ -1,14 +1,14 @@
 name = "Dynamic Trees - Biomes O' Plenty"
-filename = "DynamicTreesBOP-1.16.5-2.0.5.jar"
+filename = "DynamicTreesBOP-1.16.5-2.0.6.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3394/613/DynamicTreesBOP-1.16.5-2.0.5.jar"
+url = "https://edge.forgecdn.net/files/3400/740/DynamicTreesBOP-1.16.5-2.0.6.jar"
 hash-format = "murmur2"
-hash = "2045814220"
+hash = "1116693337"
 
 [update]
 [update.curseforge]
-file-id = 3394613
+file-id = 3400740
 project-id = 289529
 release-channel = "beta"

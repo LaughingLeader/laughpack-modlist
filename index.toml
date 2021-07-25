@@ -327,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/dtbop.toml"
-hash = "5ebe9f58cfc9b8bec60862093241a19cd915c8afed5413fe58b4927405951655"
+hash = "967c7a3951d21bdc81007a76b944dbd081711c758c9c22d2a29521947fe8aeda"
 metafile = true
 
 [[files]]
@@ -347,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamictrees.toml"
-hash = "a76f65f04cc4e029524f5f58d6e6dd6ff4f9ae03eb695a7befb182c93e0b3a54"
+hash = "d3c777e2baa9f41edf960ca8869d53e82947fe683ed1999f7d5abb1d7f42403a"
 metafile = true
 
 [[files]]
@@ -777,7 +777,7 @@ metafile = true
 
 [[files]]
 file = "mods/small-ships.toml"
-hash = "8d6e8265064ebf6b650310a2fadb793527d0850824c2ef8ccf20b186b19aac72"
+hash = "943fdc27c235edd783e36275efa2bcbf90e17e1e15e13cba0f7a7559e972bd9b"
 metafile = true
 
 [[files]]
