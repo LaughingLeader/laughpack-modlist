@@ -1,14 +1,14 @@
 name = "Refined Storage"
-filename = "refinedstorage-1.9.13.jar"
+filename = "refinedstorage-1.9.14.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3351/933/refinedstorage-1.9.13.jar"
+url = "https://edge.forgecdn.net/files/3400/209/refinedstorage-1.9.14.jar"
 hash-format = "murmur2"
-hash = "2727636460"
+hash = "1536850551"
 
 [update]
 [update.curseforge]
-file-id = 3351933
+file-id = 3400209
 project-id = 243076
 release-channel = "beta"
