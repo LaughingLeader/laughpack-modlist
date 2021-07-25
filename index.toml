@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-advancements.toml"
-hash = "0c690e05337953c00df8c6da4f1b1d9486a864292994f312b07bee1d41a6ce40"
+hash = "00985d5caec442ce1000c84865bd0cffd843c4bd9f0e79ab1ac18da42d21a34d"
 metafile = true
 
 [[files]]
@@ -347,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamictrees.toml"
-hash = "4c4401ecb6cfd49546524c6adf33f7aa8096056a456780a73faf5edc4b7ba2b6"
+hash = "a76f65f04cc4e029524f5f58d6e6dd6ff4f9ae03eb695a7befb182c93e0b3a54"
 metafile = true
 
 [[files]]
@@ -717,12 +717,12 @@ metafile = true
 
 [[files]]
 file = "mods/refined-storage-addons.toml"
-hash = "b13ab9fb405cc754df1f98322e3bb757ba72a96203b5bdd63ad977b2ac500ca5"
+hash = "2ccf26a28a955e94c0bb95441fc28d641a715b021494f2318650a0a655e9896d"
 metafile = true
 
 [[files]]
 file = "mods/refined-storage.toml"
-hash = "9a879f4028a8f292589acd34b9352e01135e266ba0b4e6b7e5bf42946d38b6a0"
+hash = "5a5fbc1741c1f1e1e074366b865af9aa34983c0844d631e3441d18b22775355d"
 metafile = true
 
 [[files]]
@@ -802,7 +802,7 @@ metafile = true
 
 [[files]]
 file = "mods/terraforged.toml"
-hash = "0c4146747ce93acad799ad3d4bc4dea5f19229fd3a636f82d07b1dae4042f944"
+hash = "137ef18d26d2e8d5bae8bec920f4cb8ef14fe4609d32ba07b02fa926c4738649"
 metafile = true
 
 [[files]]

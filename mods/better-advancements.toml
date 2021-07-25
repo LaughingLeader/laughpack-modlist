@@ -1,19 +1,19 @@
 name = "Better Advancements"
-filename = "BetterAdvancements-1.16.5-0.1.1.109.jar"
+filename = "BetterAdvancements-1.16.5-0.1.1.111.jar"
 side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3400/299/BetterAdvancements-1.16.5-0.1.1.111.jar"
+hash-format = "murmur2"
+hash = "53585469"
+
+[update]
+[update.curseforge]
+file-id = 3400299
+project-id = 272515
+release-channel = "beta"
 
 [option]
 optional = true
 description = "Better Advancements improves the advancement screen with a full-screen UI, easier to read description boxes, and more."
 default = true
-
-[download]
-url = "https://edge.forgecdn.net/files/3364/386/BetterAdvancements-1.16.5-0.1.1.109.jar"
-hash-format = "murmur2"
-hash = "3250349096"
-
-[update]
-[update.curseforge]
-file-id = 3364386
-project-id = 272515
-release-channel = "beta"
