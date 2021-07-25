@@ -1,5 +1,5 @@
 name = "Chat Sound"
-filename = "1.16.5ChatSound-1.0.3.jar"
+filename = "ChatSound-1.16.5-1.0.3.jar"
 side = "client"
 
 [option]

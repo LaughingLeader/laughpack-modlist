@@ -1,0 +1,14 @@
+name = "Advanced Peripherals"
+filename = "advancedperipherals-0.6.7b.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3353/903/advancedperipherals-0.6.7b.jar"
+hash-format = "murmur2"
+hash = "935646279"
+
+[update]
+[update.curseforge]
+file-id = 3353903
+project-id = 431725
+release-channel = "beta"

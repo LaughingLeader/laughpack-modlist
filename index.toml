@@ -11,6 +11,11 @@ hash = "ee4b8aa8a3691db020c5b380b5845a42bbac76f12cf69f31be08ef3ed248d4e2"
 metafile = true
 
 [[files]]
+file = "mods/advanced-peripherals.toml"
+hash = "64896ce3c73fa380b412edd146d822ff1adf745b762513e9649d69bdd2262db0"
+metafile = true
+
+[[files]]
 file = "mods/advancement-plaques.toml"
 hash = "c4e5d6c672e08de053f1459f69fd7bab72a514d68e776a4806800062a8f68b50"
 metafile = true
@@ -93,6 +98,11 @@ metafile = true
 [[files]]
 file = "mods/better-game-menu.toml"
 hash = "c6fd448a4a074eca705ccef2f7eaf34f24b12df0d3078c882fcfbc34746bb96f"
+metafile = true
+
+[[files]]
+file = "mods/betterend-forge-port.toml"
+hash = "f4e7cff93d58a56cd65c8b54c2752933732d9b7fbdd3a36a564478a4e6ae2a94"
 metafile = true
 
 [[files]]
@@ -368,11 +378,6 @@ metafile = true
 [[files]]
 file = "mods/ender-storage-1-8.toml"
 hash = "a4bba8d7a831f245d34157aa16afbc3cb381c64ce67dbc070cccf4e5cb1784ad"
-metafile = true
-
-[[files]]
-file = "mods/endergetic.toml"
-hash = "cecf445e48995451f212bdd73101d8f063da201fee70f121cff7799ceb25242e"
 metafile = true
 
 [[files]]
@@ -793,6 +798,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.toml"
 hash = "b7fb20366908ef3bcf62c9210bb60b685a0ec8c6efa9b11a903a583d78475294"
+metafile = true
+
+[[files]]
+file = "mods/terraforged.toml"
+hash = "0c4146747ce93acad799ad3d4bc4dea5f19229fd3a636f82d07b1dae4042f944"
 metafile = true
 
 [[files]]
