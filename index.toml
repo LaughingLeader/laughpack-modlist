@@ -356,11 +356,6 @@ hash = "6f1b50e26efd9ea63dba954e4cfe747b2a95c565a12e620439449326dc42b528"
 metafile = true
 
 [[files]]
-file = "mods/effortless-building.toml"
-hash = "44839791ce67343448f14b747b9db2e314524422f1e286dd5e5c680e7e47fccd"
-metafile = true
-
-[[files]]
 file = "mods/emojiful.toml"
 hash = "eee7598ac98bdaae1b63b352b5e73f7f5976737141e43f224d4f874478302106"
 metafile = true
