@@ -711,11 +711,6 @@ hash = "0e70f7ba0461977b8411343ee58321e8ba16dea446e32435dd3cb0e553292a4b"
 metafile = true
 
 [[files]]
-file = "mods/refined-curios.toml"
-hash = "b1c2b9df319f5e6b1e4de20fea256fbe9529b5d791b24a3d2164e0e6fa6b5fea"
-metafile = true
-
-[[files]]
 file = "mods/refined-storage-addons.toml"
 hash = "2ccf26a28a955e94c0bb95441fc28d641a715b021494f2318650a0a655e9896d"
 metafile = true
