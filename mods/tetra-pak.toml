@@ -1,14 +1,14 @@
 name = "Tetra Pak"
-filename = "tetrapak-1.16.5-0.3.1.jar"
+filename = "tetrapak-0.3.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3399/431/tetrapak-1.16.5-0.3.1.jar"
+url = "https://edge.forgecdn.net/files/3401/450/tetrapak-0.3.2.jar"
 hash-format = "murmur2"
-hash = "2870857370"
+hash = "1251288151"
 
 [update]
 [update.curseforge]
-file-id = 3399431
+file-id = 3401450
 project-id = 463554
 release-channel = "beta"

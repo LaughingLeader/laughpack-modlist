@@ -1,0 +1,14 @@
+name = "Enchantability"
+filename = "Enchantability-1.16.5-11.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3245/209/Enchantability-1.16.5-11.0.jar"
+hash-format = "murmur2"
+hash = "945712283"
+
+[update]
+[update.curseforge]
+file-id = 3245209
+project-id = 313272
+release-channel = "beta"

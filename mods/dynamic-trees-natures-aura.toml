@@ -1,0 +1,14 @@
+name = "Dynamic Trees - Nature’s Aura"
+filename = "DynamicTreesNaturesAura-1.16.5-1.2.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3396/563/DynamicTreesNaturesAura-1.16.5-1.2.4.jar"
+hash-format = "murmur2"
+hash = "3936411522"
+
+[update]
+[update.curseforge]
+file-id = 3396563
+project-id = 403135
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "MapFrontiers"
+filename = "MapFrontiers-1.16.5-1.5.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3402/453/MapFrontiers-1.16.5-1.5.1.jar"
+hash-format = "murmur2"
+hash = "41403480"
+
+[update]
+[update.curseforge]
+file-id = 3402453
+project-id = 366783
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Global Emeralds [Forge]"
+filename = "Global_Emeralds1.16.52.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3396/875/Global_Emeralds1.16.52.jar"
+hash-format = "murmur2"
+hash = "3619809038"
+
+[update]
+[update.curseforge]
+file-id = 3396875
+project-id = 504869
+release-channel = "beta"
