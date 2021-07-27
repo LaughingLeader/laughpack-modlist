@@ -156,11 +156,6 @@ hash = "1c4b54c7613a2c83bf488d539550ff5e46fcfd0317bf2e49856a4f6f434416f1"
 metafile = true
 
 [[files]]
-file = "mods/cat-has-wares.toml"
-hash = "73069485beae8968d3ef5cfd7275b6d9df4e3a869d23672e645bfd81972d3cc6"
-metafile = true
-
-[[files]]
 file = "mods/catalogue.toml"
 hash = "efe0825422030bd9342822c38806c3fe98e2fed40833848b2f660a02bb6dd0c2"
 metafile = true
@@ -758,6 +753,11 @@ metafile = true
 [[files]]
 file = "mods/reload-audio-driver-rad.toml"
 hash = "6c5e808614195bb0a500873d2eaa54f9347ccfb909c611ef98a7e0375d1316ed"
+metafile = true
+
+[[files]]
+file = "mods/retail.toml"
+hash = "bec5bbb7593735b5b8ae3836a1f4ff39e144e4bd8fb4c6c02ab4259ef77bb849"
 metafile = true
 
 [[files]]

@@ -1,0 +1,14 @@
+name = "Eric's Retail"
+filename = "Retail-mc1.16-forge-0.3.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3402/362/Retail-mc1.16-forge-0.3.1.jar"
+hash-format = "murmur2"
+hash = "3986245392"
+
+[update]
+[update.curseforge]
+file-id = 3402362
+project-id = 431323
+release-channel = "beta"
