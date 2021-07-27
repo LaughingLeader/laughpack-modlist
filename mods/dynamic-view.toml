@@ -1,6 +1,11 @@
 name = "Dynamic View"
 filename = "dynviewdist-2.0.jar"
-side = "both"
+side = "server"
+
+[option]
+optional = true
+description = "This is a small/light serverside utility mod to help balancing lag(tps) and chunk view/load distance. When the server is not lagging it increases the chunk view distance, once it goes over the given lag threshold it reduces the chunk view distance. May lag with Dynamic Trees."
+default = false
 
 [download]
 url = "https://edge.forgecdn.net/files/3358/883/dynviewdist-2.0.jar"
