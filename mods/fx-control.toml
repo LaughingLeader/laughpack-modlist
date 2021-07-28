@@ -1,0 +1,14 @@
+name = "Fx Control!"
+filename = "fxcontrol-1.16-2.0.11.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3360/636/fxcontrol-1.16-2.0.11.jar"
+hash-format = "murmur2"
+hash = "1375794391"
+
+[update]
+[update.curseforge]
+file-id = 3360636
+project-id = 313477
+release-channel = "beta"

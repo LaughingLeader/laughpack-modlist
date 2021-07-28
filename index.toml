@@ -496,6 +496,11 @@ hash = "2519c10d30d05ebd4eca7f1694e00493f03a5b387fd3294d3a6265e63a4b4051"
 metafile = true
 
 [[files]]
+file = "mods/fx-control.toml"
+hash = "c5eac82b9367a3067352ef28573e182b9d2f5bae7f918522981ffe0ee38b60f6"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.toml"
 hash = "6af3376f988855aff67d7bebd36eea4cafc3e6be566663457dd9f25c6910cf38"
 metafile = true
@@ -523,6 +528,11 @@ metafile = true
 [[files]]
 file = "mods/immersiveposts.toml"
 hash = "a33a03efad8c62b6b61ff24a8bd1419e1b698e0cbbeebd483b71bbdba84dec2e"
+metafile = true
+
+[[files]]
+file = "mods/in-control.toml"
+hash = "9af9484136a1fe813181b72494fcb5579b8dc1379d0eef05d7add72097a7d40d"
 metafile = true
 
 [[files]]
