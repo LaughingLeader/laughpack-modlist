@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-advancements.toml"
-hash = "00985d5caec442ce1000c84865bd0cffd843c4bd9f0e79ab1ac18da42d21a34d"
+hash = "ba43cb5a59baa9523358097e54a87821330432737ae3222057392c8bb0fefb85"
 metafile = true
 
 [[files]]

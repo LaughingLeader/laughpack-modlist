@@ -1,15 +1,15 @@
 name = "Better Advancements"
-filename = "BetterAdvancements-1.16.5-0.1.1.111.jar"
+filename = "BetterAdvancements-1.16.5-0.1.1.115.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3400/299/BetterAdvancements-1.16.5-0.1.1.111.jar"
+url = "https://edge.forgecdn.net/files/3404/330/BetterAdvancements-1.16.5-0.1.1.115.jar"
 hash-format = "murmur2"
-hash = "53585469"
+hash = "3041603780"
 
 [update]
 [update.curseforge]
-file-id = 3400299
+file-id = 3404330
 project-id = 272515
 release-channel = "beta"
 
