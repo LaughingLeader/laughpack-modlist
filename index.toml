@@ -716,6 +716,11 @@ hash = "1011ba5c105306e0e47bf9a112ae8ff0edc8018729c91d80f97cb06b682200c3"
 metafile = true
 
 [[files]]
+file = "mods/portality.toml"
+hash = "b8e5e612c5545c9ce380b91b2f72671776c5c4a5ce539c1d1b05d6b7d794a1c3"
+metafile = true
+
+[[files]]
 file = "mods/property-modifier.toml"
 hash = "d232f7a1bdb68a529af61951ad3845cb8dcd5b7996878a612e0c88dcae3a6c13"
 metafile = true
@@ -871,6 +876,11 @@ hash = "94c1e25ad13624d6ba388bcb0a4f508a72ed96e82b5ef36968baa1c597f19ecd"
 metafile = true
 
 [[files]]
+file = "mods/titanium.toml"
+hash = "6fdcc9ab0243f762d8f1d5b646055256e66badd23d6c79dfc5932384e2a871b1"
+metafile = true
+
+[[files]]
 file = "mods/to-the-bat-poles.toml"
 hash = "f5aa8fe19aa4a3111895a90cbeed15b1fdd618976f8e6a6575a791ac1957ee3e"
 metafile = true
@@ -893,6 +903,11 @@ metafile = true
 [[files]]
 file = "mods/tool-belt.toml"
 hash = "96847ed6268ba397604a90a7a17374f066be4a36d57aff1e8db55509d719de52"
+metafile = true
+
+[[files]]
+file = "mods/transport.toml"
+hash = "cc4c935cfc94dbec7d9119e840bea78dd9b10093d39b25107435577c08ae10a0"
 metafile = true
 
 [[files]]

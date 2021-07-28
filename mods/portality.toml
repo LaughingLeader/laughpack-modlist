@@ -1,0 +1,14 @@
+name = "Portality"
+filename = "portality-1.16.4-3.2.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3302/511/portality-1.16.4-3.2.2.jar"
+hash-format = "murmur2"
+hash = "3259228697"
+
+[update]
+[update.curseforge]
+file-id = 3302511
+project-id = 291493
+release-channel = "beta"
