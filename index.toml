@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/caelus.toml"
-hash = "b0d1d866b18a8e852266a4e1e04e657407d181d107f1ce21339cfc9cbfcac767"
+hash = "5b1f4c07ec79c71c756b421914beb459168e374f8321bd3cefcd9b7b562fb930"
 metafile = true
 
 [[files]]
@@ -492,7 +492,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.toml"
-hash = "d771fd55a15626279f58a89bc5d755fb95c01d847bdbf222057b585a936d161e"
+hash = "6af3376f988855aff67d7bebd36eea4cafc3e6be566663457dd9f25c6910cf38"
 metafile = true
 
 [[files]]
@@ -757,7 +757,7 @@ metafile = true
 
 [[files]]
 file = "mods/retail.toml"
-hash = "bec5bbb7593735b5b8ae3836a1f4ff39e144e4bd8fb4c6c02ab4259ef77bb849"
+hash = "0a953319558f4449723208cf27b44d779140df580c60308b38791f3b7dd0f60f"
 metafile = true
 
 [[files]]
