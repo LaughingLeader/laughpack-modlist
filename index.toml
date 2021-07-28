@@ -241,6 +241,11 @@ hash = "9ad9f3b1d15ec8d94b60648c757234402ef16ec3788f3efb164267809ed4d3d9"
 metafile = true
 
 [[files]]
+file = "mods/crafttweaker.toml"
+hash = "9fd0d1ce139b1f5244b6a7a7c8a49e68f1d3c6ebcf5db316d6a063d8b339db6f"
+metafile = true
+
+[[files]]
 file = "mods/create-plus.toml"
 hash = "b122b7c9f29654a102a0d541a2ab4478adfde8760b9b25f5559ea9d4aba0b0a7"
 metafile = true
@@ -538,6 +543,11 @@ metafile = true
 [[files]]
 file = "mods/jei.toml"
 hash = "95c15f21848c83a4ab43fe392b872e2219786b8cca4ab05b354dd1d4e5f784ea"
+metafile = true
+
+[[files]]
+file = "mods/jeitweaker.toml"
+hash = "1eb7cfefcc3b308d8dec2349622ff383601ae95b117cc3c35e5fb6d0da1f2c1e"
 metafile = true
 
 [[files]]
