@@ -711,6 +711,11 @@ hash = "4fcf196c56ded2aa9c0dcd6f3772564c0e92839963b4c9e96fc76d7c37266558"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.toml"
+hash = "1011ba5c105306e0e47bf9a112ae8ff0edc8018729c91d80f97cb06b682200c3"
+metafile = true
+
+[[files]]
 file = "mods/property-modifier.toml"
 hash = "d232f7a1bdb68a529af61951ad3845cb8dcd5b7996878a612e0c88dcae3a6c13"
 metafile = true
