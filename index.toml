@@ -81,11 +81,6 @@ hash = "3ec6639b52d3eb14d702cf5e6b6fa4c480bd84b988697a11f3b3314e2cf35f72"
 metafile = true
 
 [[files]]
-file = "mods/bayou-blues.toml"
-hash = "8806cd5d256d1ebc74b72bd9ca2cec9db8dd54569a2e2f4da627f94422cf400b"
-metafile = true
-
-[[files]]
 file = "mods/berry-good.toml"
 hash = "b78067d00c0bee3e5c5e8bcc4479f30e5d2d676faef3666f58cb563cf227ee26"
 metafile = true
