@@ -567,7 +567,7 @@ metafile = true
 
 [[files]]
 file = "mods/iron-chests.toml"
-hash = "8f5098e468fe920de4055b0ad7151662b02d4c399c4e257e168a8361b80f2dd4"
+hash = "a1a4318b5a47ee6129e0f69d24b48d155f92c3098f75e8b495d120a3fa57b3f8"
 metafile = true
 
 [[files]]
