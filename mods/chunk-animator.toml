@@ -1,0 +1,19 @@
+name = "Chunk Animator"
+filename = "ChunkAnimator-1.16.5-1.2.4.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3295/196/ChunkAnimator-1.16.5-1.2.4.jar"
+hash-format = "murmur2"
+hash = "3643578301"
+
+[update]
+[update.curseforge]
+file-id = 3295196
+project-id = 236484
+release-channel = "beta"
+
+[option]
+optional = true
+description = "When new chunks are loaded in vanilla minecraft they simply 'appear instantly', with this mod they can be animated to either appear from below or above. This mod shouldn't impact fps considerably because all it does is render chunks 'somewhere else'. OptiFine is supported*, however on 1.14.4 and above for the chunks to be animated you will need to make sure the 'render regions' option is disabled. This can be found under the Performance screen in Video Settings."
+default = true

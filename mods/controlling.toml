@@ -1,6 +1,6 @@
 name = "Controlling"
 filename = "Controlling-7.0.0.23.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3348/514/Controlling-7.0.0.23.jar"

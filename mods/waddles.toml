@@ -1,0 +1,14 @@
+name = "Waddles"
+filename = "Waddles-1.16.5-0.8.13.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3343/400/Waddles-1.16.5-0.8.13.jar"
+hash-format = "murmur2"
+hash = "589205187"
+
+[update]
+[update.curseforge]
+file-id = 3343400
+project-id = 251767
+release-channel = "beta"

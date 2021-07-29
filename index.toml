@@ -186,6 +186,16 @@ hash = "e8c451cfe67c2252903daa7e89d076fb7428f3932aad01758396d51c743e2ece"
 metafile = true
 
 [[files]]
+file = "mods/chunk-animator.toml"
+hash = "56c586b4611f59a28b4a5fb00aff6977f8079e7ad67b220fa3f7034ed549e7da"
+metafile = true
+
+[[files]]
+file = "mods/chunkpregenerator.toml"
+hash = "741d98ae57acbfb29ba4ef11210566f40e361062b2386b6e2bb857a6df845006"
+metafile = true
+
+[[files]]
 file = "mods/citadel.toml"
 hash = "5598bf7661a1384e41b9fe41c39eb277c22e3bf7c62f2461d1e3d2ad7b3aea9e"
 metafile = true
@@ -556,6 +566,16 @@ hash = "b8d90bf327fdb85b404465ecefdb76ef2057d5254831c75542d9c5899d81fb95"
 metafile = true
 
 [[files]]
+file = "mods/iron-chests.toml"
+hash = "8f5098e468fe920de4055b0ad7151662b02d4c399c4e257e168a8361b80f2dd4"
+metafile = true
+
+[[files]]
+file = "mods/its-the-little-things.toml"
+hash = "203d82d8c75a7951eb8dd96dce2e48c624ca38e6e7ba613b245bd77ac5d073b5"
+metafile = true
+
+[[files]]
 file = "mods/jade.toml"
 hash = "afd510f1c881327d466a0eb89b79723bd459b1efb1487cde91b3a21d9d657cfe"
 metafile = true
@@ -633,6 +653,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-lights-and-lamps.toml"
 hash = "28e90fadaf224e61b5b9fd4b269821ad302a3780385020c4b7e3ed0c816bcb2d"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs.toml"
+hash = "5e75c0c8a50dc4202eb8359d02432e97a5b6425fe3ab33ab68da9f183b256ec6"
 metafile = true
 
 [[files]]
@@ -766,6 +791,11 @@ hash = "cdb26e13b722e7fe74c10d3c2a479c320269a8efb4801d391b16d08725fff2bb"
 metafile = true
 
 [[files]]
+file = "mods/recipe-stages.toml"
+hash = "e504e47f50aa8ececf31950be2f324306d149fdb404892e0934873fa2437f60d"
+metafile = true
+
+[[files]]
 file = "mods/redstone-gauges-and-switches.toml"
 hash = "5ebb3a90c7c165e0be766739bce1d0cfd00f3ef9dabd74d1d0856ece82d73447"
 metafile = true
@@ -851,6 +881,11 @@ hash = "5d4eaa675ef990f5c7a95dfd40e07651d34f21f55cc884abcc37994bd3f0a60f"
 metafile = true
 
 [[files]]
+file = "mods/slab-machines.toml"
+hash = "5b46bfbbc0d8208605aaedc86bc86355cfe5725daa5ae9552f692f533d47be79"
+metafile = true
+
+[[files]]
 file = "mods/small-ships.toml"
 hash = "943fdc27c235edd783e36275efa2bcbf90e17e1e15e13cba0f7a7559e972bd9b"
 metafile = true
@@ -858,6 +893,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-backpacks.toml"
 hash = "4b75d13962f0ae384800ca13d924a3c9e18cf7838a7c3af6685e36378650099f"
+metafile = true
+
+[[files]]
+file = "mods/spartan-shields.toml"
+hash = "33d934a1c704cc32319ee03e1e4713f3fcb6e238e8537c546e8336628fd01eee"
 metafile = true
 
 [[files]]
@@ -926,6 +966,11 @@ hash = "96847ed6268ba397604a90a7a17374f066be4a36d57aff1e8db55509d719de52"
 metafile = true
 
 [[files]]
+file = "mods/trample-stopper.toml"
+hash = "1250097b9a7f6c987f8c49c50efdfcfaa05e0c672a8ba522580faf08e0d8a78c"
+metafile = true
+
+[[files]]
 file = "mods/transport.toml"
 hash = "cc4c935cfc94dbec7d9119e840bea78dd9b10093d39b25107435577c08ae10a0"
 metafile = true
@@ -948,6 +993,11 @@ metafile = true
 [[files]]
 file = "mods/visual-workbench.toml"
 hash = "58bc8b174bd7bb13baca5184ec252d5744bdc0db190ca81e1bf7598e4c3a2ff9"
+metafile = true
+
+[[files]]
+file = "mods/waddles.toml"
+hash = "a079c0b49e4cd6d0bdfce9e0ae3596a77fec729e65b661ceac8bbf64872ee807"
 metafile = true
 
 [[files]]
