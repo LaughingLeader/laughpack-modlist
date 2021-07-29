@@ -1,15 +1,15 @@
 name = "Customizable Player Models"
-filename = "CustomPlayerModels-1.16-0.0.17e.jar"
+filename = "CustomPlayerModels-1.16-0.0.17g.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3402/791/CustomPlayerModels-1.16-0.0.17e.jar"
+url = "https://edge.forgecdn.net/files/3405/236/CustomPlayerModels-1.16-0.0.17g.jar"
 hash-format = "murmur2"
-hash = "1833355614"
+hash = "147064188"
 
 [update]
 [update.curseforge]
-file-id = 3402791
+file-id = 3405236
 project-id = 439870
 release-channel = "beta"
 

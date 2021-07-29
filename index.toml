@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/advanced-peripherals.toml"
-hash = "64896ce3c73fa380b412edd146d822ff1adf745b762513e9649d69bdd2262db0"
+hash = "f4977ea9b83719cf8f150121573f5bfe4b8bdb98bc9c5833182b5a8ae3cfda56"
 metafile = true
 
 [[files]]
@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.toml"
-hash = "9fd0d1ce139b1f5244b6a7a7c8a49e68f1d3c6ebcf5db316d6a063d8b339db6f"
+hash = "53c8eac1a2cf4be4fd35d6b8ed8a553dd57e35dd93c5e2c5916bf4ef0ee112a0"
 metafile = true
 
 [[files]]
@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-player-models.toml"
-hash = "ee65032821445d2014792a506a0d0e2b3568b519ccf10053ab0bda7cb8406aa3"
+hash = "03fe4649a42a3ad058735f41cfdbc4ddc449b56dbed5c244e19832bf2bdfd2ec"
 metafile = true
 
 [[files]]
@@ -322,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/dimensional-dungeons.toml"
-hash = "8d771ccb365f259e0b050e1ce2a4dc6e487b2f41f2c99cc8449efc3a1765696f"
+hash = "9401ee48ad5c803c5fc4a7e890dcf58ab3f131e9ba6c1121a429484acfae068d"
 metafile = true
 
 [[files]]
