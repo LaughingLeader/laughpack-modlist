@@ -26,6 +26,11 @@ hash = "b3ce874660b53066b78be96b2d686ffe5937565ee9c18ae6dc481e1e2e2c2c6b"
 metafile = true
 
 [[files]]
+file = "mods/apotheosis.toml"
+hash = "4bcb13e15701145fd57529de04783edc1a531e6d51eb37880dc64a6c5971bb32"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.toml"
 hash = "0e5929448f3105c10e8df986c97e9b1c2192cbcd6165c31c3fbcdd8103e3c9be"
 metafile = true
@@ -498,6 +503,11 @@ metafile = true
 [[files]]
 file = "mods/fx-control.toml"
 hash = "c5eac82b9367a3067352ef28573e182b9d2f5bae7f918522981ffe0ee38b60f6"
+metafile = true
+
+[[files]]
+file = "mods/game-stages.toml"
+hash = "91be221b7a29d6980a38f93caaa0528a0bf2c6a4fd14f0a5e353263234e4714e"
 metafile = true
 
 [[files]]
