@@ -1,9 +1,9 @@
 name = "ColorUtility"
-filename = "ColorUtility-[1.16.5]-forge-2.0.1serverfix.jar"
+filename = "ColorUtility-1.16.5-forge-2.0.1serverfix.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3375/857/ColorUtility-[1.16.5]-forge-2.0.1serverfix.jar"
+url = "https://edge.forgecdn.net/files/3375/857/ColorUtility-%5B1.16.5%5D-forge-2.0.1serverfix.jar"
 hash-format = "murmur2"
 hash = "3519067798"
 
