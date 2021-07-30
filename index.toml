@@ -26,6 +26,11 @@ hash = "c4e5d6c672e08de053f1459f69fd7bab72a514d68e776a4806800062a8f68b50"
 metafile = true
 
 [[files]]
+file = "mods/akashic-tome.toml"
+hash = "36fd4d9756243968ede9dcf5d85e3e0c3b1353389eeabfe173cae13be70327ff"
+metafile = true
+
+[[files]]
 file = "mods/alexs-mobs.toml"
 hash = "b3ce874660b53066b78be96b2d686ffe5937565ee9c18ae6dc481e1e2e2c2c6b"
 metafile = true
