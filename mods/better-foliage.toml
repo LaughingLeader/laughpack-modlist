@@ -1,19 +1,18 @@
 name = "Better Foliage"
-filename = "BetterFoliage-2.6.5-Forge-1.16.5.jar"
+filename = "BetterFoliage-2.7.0-Forge-1.16.5.jar"
 side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3406/437/BetterFoliage-2.7.0-Forge-1.16.5.jar"
+hash-format = "murmur2"
+hash = "1151301220"
+
+[update]
+[update.curseforge]
+file-id = 3406437
+project-id = 228529
+release-channel = "beta"
 
 [option]
 optional = true
 description = "Better Foliage improves the way vegetation looks, including grass, bushes, and trees. May lower FPS and increase loading times, but trees and grass look very nice with this."
-default = false
-
-[download]
-url = "https://edge.forgecdn.net/files/3335/91/BetterFoliage-2.6.5-Forge-1.16.5.jar"
-hash-format = "murmur2"
-hash = "1714531387"
-
-[update]
-[update.curseforge]
-file-id = 3335091
-project-id = 228529
-release-channel = "beta"
