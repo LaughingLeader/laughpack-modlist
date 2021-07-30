@@ -156,6 +156,11 @@ hash = "5b1f4c07ec79c71c756b421914beb459168e374f8321bd3cefcd9b7b562fb930"
 metafile = true
 
 [[files]]
+file = "mods/camera-mod.toml"
+hash = "dde569c8b2720e2bcb588c372cea73f59cbf16788e6376422e8d023458516842"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.toml"
 hash = "1c4b54c7613a2c83bf488d539550ff5e46fcfd0317bf2e49856a4f6f434416f1"
 metafile = true
@@ -711,6 +716,16 @@ hash = "ff8a165563b9b414186ea4dcc65be29236c167186715cb4467f56a5fd1007b5d"
 metafile = true
 
 [[files]]
+file = "mods/mrcrayfish-furniture-mod.toml"
+hash = "837e4f25b43750d2885e0e74f4784f00acb9e128f3f2ee01ea0954e27a4e08f1"
+metafile = true
+
+[[files]]
+file = "mods/mrcrayfish-more-furniture-mod.toml"
+hash = "3d66c5b964952094734e2988a5b8353a0fc51c77a18b56ca8697e7cfcffd8cb1"
+metafile = true
+
+[[files]]
 file = "mods/natures-aura.toml"
 hash = "db38fc187041e24a7b7d1e02e271a2a3e0c7f01f726299350c9a073e6d118c7c"
 metafile = true
@@ -988,6 +1003,11 @@ metafile = true
 [[files]]
 file = "mods/travelers-titles.toml"
 hash = "ebc31c03a622311e821a76d381260cee0cad675c3513ed36d531b4051343669e"
+metafile = true
+
+[[files]]
+file = "mods/ultimate-car-mod.toml"
+hash = "162ae4a05b58a4b2d61bfa2fe272240aa956b3eb66011775f92f2d8d07753635"
 metafile = true
 
 [[files]]
