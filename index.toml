@@ -711,6 +711,11 @@ hash = "425e7e0b2792ab89f7e718eb7cef647fdef0b15c83180590773d82b86b7c35e5"
 metafile = true
 
 [[files]]
+file = "mods/morph-o-tool.toml"
+hash = "31143fb0143cf3a544d9da3e5a05e0561ae085d5b51c29a01c67ffb074ec4b1b"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.toml"
 hash = "104dc0c241070a9ed8b601ad70b125a0cc23ea70ecc30885e3bfe24c4696d218"
 metafile = true
