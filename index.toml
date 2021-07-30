@@ -6,6 +6,11 @@ hash = "165683bc82b6b8f3f10f78c16055dfe8fd6dc382dc755336b54173e3231de182"
 metafile = true
 
 [[files]]
+file = "mods/absent-by-design.toml"
+hash = "fb30e73409ece780da57778fe2679552ffd9ad6f73ded574a3bebf3b421cbe60"
+metafile = true
+
+[[files]]
 file = "mods/abundance.toml"
 hash = "ee4b8aa8a3691db020c5b380b5845a42bbac76f12cf69f31be08ef3ed248d4e2"
 metafile = true
@@ -223,6 +228,11 @@ metafile = true
 [[files]]
 file = "mods/codechicken-lib-1-8.toml"
 hash = "d637d9dd519633db3cbeeda733b698637619917e06a9096751fd10ec616838f3"
+metafile = true
+
+[[files]]
+file = "mods/colorutility.toml"
+hash = "c3363896cb370b95d19ad99eedbd30ae0f0639568fa26aa73912bdbf64d74942"
 metafile = true
 
 [[files]]
