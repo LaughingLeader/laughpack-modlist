@@ -5,7 +5,7 @@ side = "both"
 [download]
 url = "https://edge.forgecdn.net/files/3407/402/kubejs-create-1605.1.2-build.4.jar"
 hash-format = "murmur2"
-hash = "810263361"
+hash = "3519097291"
 
 [update]
 [update.curseforge]

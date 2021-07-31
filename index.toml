@@ -627,7 +627,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs-create.toml"
-hash = "ed456b7aa8879558c38e586abca55b553c3d4759aedc5ec1cef8d72182a39533"
+hash = "dc7f68cb657d9cd9fea8edacb032e10e6c8c5a7335ab749ffc276c0d7c67b5fb"
 metafile = true
 
 [[files]]
