@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/advancement-plaques.toml"
-hash = "c4e5d6c672e08de053f1459f69fd7bab72a514d68e776a4806800062a8f68b50"
+hash = "5afbfbb472c9d3aa23e3afecbcfbd32d91defb0466d24763a0bb5fcf0d51e094"
 metafile = true
 
 [[files]]
@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/catalogue.toml"
-hash = "efe0825422030bd9342822c38806c3fe98e2fed40833848b2f660a02bb6dd0c2"
+hash = "df090863188839b35653fa3255de4a7ec814e7e44cc91eb57e7d9d0dffa302b5"
 metafile = true
 
 [[files]]
@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatsound.toml"
-hash = "984337bfa29bf81e7faaead2864f9cf8dc5babce864567761182b9a0f9062fe3"
+hash = "a73fb560e1e0e3002c34801dec50270d96f35d5dc7f4341e30ab94d46223ea04"
 metafile = true
 
 [[files]]
@@ -197,12 +197,12 @@ metafile = true
 
 [[files]]
 file = "mods/chunk-animator.toml"
-hash = "56c586b4611f59a28b4a5fb00aff6977f8079e7ad67b220fa3f7034ed549e7da"
+hash = "e9c371555002d02b11cfff6d879a175ce748ea3ff889cf5e1ac32f3e2e8a2b77"
 metafile = true
 
 [[files]]
 file = "mods/chunkpregenerator.toml"
-hash = "741d98ae57acbfb29ba4ef11210566f40e361062b2386b6e2bb857a6df845006"
+hash = "af581069116e7c2755a2b321da5d2068e183d7c37569cf0e1d8cb210eb2eee63"
 metafile = true
 
 [[files]]
@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/client-tweaks.toml"
-hash = "781a99fc1499ca3bf49f2f3a1bfc7694900c169f033d7bb30213fd57161e3df3"
+hash = "a317844b57e84895d5e0b84151c6c1fb9191f933c41869a3e4f87e38d977dba9"
 metafile = true
 
 [[files]]
@@ -242,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorutility.toml"
-hash = "c3363896cb370b95d19ad99eedbd30ae0f0639568fa26aa73912bdbf64d74942"
+hash = "901afcb3d727c4017c851e7ba3b41e014570d6c47594742993d514f17e9fe93a"
 metafile = true
 
 [[files]]
@@ -252,12 +252,12 @@ metafile = true
 
 [[files]]
 file = "mods/configured.toml"
-hash = "2a9fb212a387c2253185a7b539131f6d74cbba42af4d7c3825ede768ac3b75b5"
+hash = "58a013248d3561b9d9151beed9e27783af72ba442ffdd214fc287dca8e01e6fb"
 metafile = true
 
 [[files]]
 file = "mods/controlling.toml"
-hash = "30b2c5a50e6107dbf36bccc2a3870653ba6baf20ad74ef473ad13485e20d633e"
+hash = "df70eafbd2c3b35f92f3b0237c41f8811ef48dc5f98c72a2217f9fa92fd4978d"
 metafile = true
 
 [[files]]
@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/default-options.toml"
-hash = "2716efab8eb669df04ced6abb85f2d8b7af39019dbda907d810a18e0351828d7"
+hash = "3bfc3839706cef60d0c0f99093f19506f39ffb3c1bde2357f6dc8ded9aceaea4"
 metafile = true
 
 [[files]]
@@ -452,7 +452,7 @@ metafile = true
 
 [[files]]
 file = "mods/extreme-sound-muffler.toml"
-hash = "51a03d6af665b7e5a600ea8819cf4993bca1e28f1c3002ed0c660efbf6ff4b1b"
+hash = "1e9d589ba42e7cf5f1d2d3072115c16ce696b3d8bf1cb98ee060be52109a8ec8"
 metafile = true
 
 [[files]]
@@ -627,12 +627,12 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs-create.toml"
-hash = "67668a78c0e9b5c40099cf8b56f7fa3ec28a77150269a9d745f2fb066cdd50e3"
+hash = "2bca0df3c2a051c9cdfab7065249b0b8a2c5b216397560ef475b06a2c3cb1ea6"
 metafile = true
 
 [[files]]
 file = "mods/kubejs-forge.toml"
-hash = "2401ece9f170005fa74443d5c4aadab86cb6b98a8f94cd26e2b9fd035c97a337"
+hash = "de2bc50aa2cfedbf89b8eaf1acfdad6b28300ad9a5b5f9d3e9e11d5f5cb9af0f"
 metafile = true
 
 [[files]]
@@ -707,7 +707,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.toml"
-hash = "104dc0c241070a9ed8b601ad70b125a0cc23ea70ecc30885e3bfe24c4696d218"
+hash = "b60a76112bedd03e43fb75f03f117abcc36efb06183028a818efc9791f537b82"
 metafile = true
 
 [[files]]
@@ -867,7 +867,7 @@ metafile = true
 
 [[files]]
 file = "mods/security-craft.toml"
-hash = "79c30af31773d2ca6c8521821ccf421245924410b5a3b6a59e9a7939b8b7ee22"
+hash = "abda192020c9923ead607e30c8a4b1b86e60862eab7816616bfacb625159e208"
 metafile = true
 
 [[files]]
