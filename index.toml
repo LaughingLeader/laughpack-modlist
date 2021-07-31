@@ -386,11 +386,6 @@ hash = "9a40ff3604bd0f0bdaa17ca6d8fd33c795be1219672cc748539cd8172a09f5b7"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-view.toml"
-hash = "4346ff61c0d46ffdd9c6fe552ebedf1072e4c24a845a92797edb48d47ec0d6a9"
-metafile = true
-
-[[files]]
 file = "mods/dynamictrees.toml"
 hash = "9daa815da8ba53231e3d4b6066b21001094e78560b9ade8ad5dde555d3eb9d70"
 metafile = true
@@ -598,11 +593,6 @@ metafile = true
 [[files]]
 file = "mods/jei.toml"
 hash = "95c15f21848c83a4ab43fe392b872e2219786b8cca4ab05b354dd1d4e5f784ea"
-metafile = true
-
-[[files]]
-file = "mods/jeitweaker.toml"
-hash = "1eb7cfefcc3b308d8dec2349622ff383601ae95b117cc3c35e5fb6d0da1f2c1e"
 metafile = true
 
 [[files]]

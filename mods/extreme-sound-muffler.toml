@@ -1,6 +1,6 @@
 name = "Extreme Sound Muffler (Forge)"
 filename = "extremeSoundMuffler-3.13-1.16.5.jar"
-side = "both"
+side = "client"
 
 [option]
 optional = true
