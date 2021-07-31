@@ -461,11 +461,6 @@ hash = "52a09873eb822422647eea9d6831d1175a2e531b74b3c8de39e4ec035d5ddcca"
 metafile = true
 
 [[files]]
-file = "mods/fast-leaf-decay.toml"
-hash = "5b210f54a46279ca34dd50756cfa73f744e5762033ea721a858fbba2bab08fb3"
-metafile = true
-
-[[files]]
 file = "mods/fastfurnace.toml"
 hash = "33080cb860556b54d31ae31188c78d161e190f4b469dbd49e0e11c03c9f8523d"
 metafile = true
@@ -488,11 +483,6 @@ metafile = true
 [[files]]
 file = "mods/flywheel.toml"
 hash = "c7740fa56094dcc9e611bc1e3f8e84f2a85b8b9bc6c8786106145937a359e952"
-metafile = true
-
-[[files]]
-file = "mods/forgeendertech.toml"
-hash = "dc126f6b94ade7df94f6d9439ac546a4194041c6234a00129a5a9dedf0c1b285"
 metafile = true
 
 [[files]]
@@ -606,11 +596,6 @@ hash = "a0023e9630d5acee6050e17a2b8bd51b1fbdc88d5f6a56c75bf7a182b93033bd"
 metafile = true
 
 [[files]]
-file = "mods/just-enough-resources-jer.toml"
-hash = "15275b9ebc3490e4290788906fd0c57b00c02dff9f11214c39d2eebad899a06a"
-metafile = true
-
-[[files]]
 file = "mods/konkrete.toml"
 hash = "61b82b1f26a554030e750ea82527eba704fd472b590c1f2051c7e6c66b696ab6"
 metafile = true
@@ -638,11 +623,6 @@ metafile = true
 [[files]]
 file = "mods/kubejs-immersive-engineering.toml"
 hash = "11b62b4c25b14c532f90564a1eb1a01efce6577cd64771ceaa4da6af5230b8ad"
-metafile = true
-
-[[files]]
-file = "mods/large-ore-deposits.toml"
-hash = "6c2709975bf368f3c1519394ee0996a939619d429fb8809f24a11c80f9f4340b"
 metafile = true
 
 [[files]]
@@ -961,11 +941,6 @@ hash = "6fdcc9ab0243f762d8f1d5b646055256e66badd23d6c79dfc5932384e2a871b1"
 metafile = true
 
 [[files]]
-file = "mods/to-the-bat-poles.toml"
-hash = "f5aa8fe19aa4a3111895a90cbeed15b1fdd618976f8e6a6575a791ac1957ee3e"
-metafile = true
-
-[[files]]
 file = "mods/toast-control.toml"
 hash = "0e89aacea2d0a878b6a00f03399b0dd1abed3967c34d733b2073ef37a91d6969"
 metafile = true
@@ -988,11 +963,6 @@ metafile = true
 [[files]]
 file = "mods/trample-stopper.toml"
 hash = "1250097b9a7f6c987f8c49c50efdfcfaa05e0c672a8ba522580faf08e0d8a78c"
-metafile = true
-
-[[files]]
-file = "mods/transport.toml"
-hash = "cc4c935cfc94dbec7d9119e840bea78dd9b10093d39b25107435577c08ae10a0"
 metafile = true
 
 [[files]]

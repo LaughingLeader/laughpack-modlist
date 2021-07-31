@@ -1,6 +1,6 @@
 name = "Just Enough Resources (JER)"
 filename = "JustEnoughResources-1.16.5-0.12.1.121.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3336/760/JustEnoughResources-1.16.5-0.12.1.121.jar"
