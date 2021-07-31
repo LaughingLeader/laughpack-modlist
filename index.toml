@@ -367,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-music.toml"
-hash = "a0c87670fa5760e18f5fddf244db3e858985bd8bab36f23a4bf4a7211664e96c"
+hash = "2a4b92e3488958d22434a444cba6538164b4eb648bd58f93db7e586dc4884a52"
 metafile = true
 
 [[files]]
@@ -582,7 +582,7 @@ metafile = true
 
 [[files]]
 file = "mods/its-the-little-things.toml"
-hash = "203d82d8c75a7951eb8dd96dce2e48c624ca38e6e7ba613b245bd77ac5d073b5"
+hash = "da4319eaa07d1b250d0a74e879f0e9cd466a1906c03f02fecbb70f610e57a7b7"
 metafile = true
 
 [[files]]
@@ -627,7 +627,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs-create.toml"
-hash = "2bca0df3c2a051c9cdfab7065249b0b8a2c5b216397560ef475b06a2c3cb1ea6"
+hash = "436d576ba2765a07354b7baa5f7dd209a1f918543ed9f491be1abdaf9d06f949"
 metafile = true
 
 [[files]]
