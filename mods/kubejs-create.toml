@@ -3,9 +3,9 @@ filename = "kubejs-create-1605.1.2-build.4.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3398/164/kubejs-create-1605.1.2-build.4.jar"
+url = "https://edge.forgecdn.net/files/3407/402/kubejs-create-1605.1.2-build.4.jar"
 hash-format = "murmur2"
-hash = "346113281"
+hash = "810263361"
 
 [update]
 [update.curseforge]
