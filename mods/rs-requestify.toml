@@ -1,14 +1,14 @@
 name = "Refined Storage: Requestify"
-filename = "rsrequestify-1.16.3-2.0.1.jar"
+filename = "rsrequestify-1.16.3-2.1.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3099/33/rsrequestify-1.16.3-2.0.1.jar"
+url = "https://edge.forgecdn.net/files/3408/394/rsrequestify-1.16.3-2.1.1.jar"
 hash-format = "murmur2"
-hash = "1127556317"
+hash = "4138714175"
 
 [update]
 [update.curseforge]
-file-id = 3099033
+file-id = 3408394
 project-id = 307788
 release-channel = "beta"

@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.toml"
-hash = "da397a5b0cd8bbc08db9f901adec26efbe6a8426206f836cc041bb2f9a80729e"
+hash = "b9bdb439cec93d8ce49fde599a716138c22b25b3bf728215f5494aec63c47cce"
 metafile = true
 
 [[files]]
@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.toml"
-hash = "80b8ced0f235c6f3c205623e391bc48d5c78fb755db87bb51fd1ad9e15d889e4"
+hash = "637f00973a52abb4815fcf1ceb511ab9258e728fe57b2b1f7a0a6953ed4f6f6f"
 metafile = true
 
 [[files]]
@@ -497,7 +497,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.toml"
-hash = "b7c87dab1080b1acd1e53a944a18cbee048bc35c942963ef84ba74462620f067"
+hash = "120ca421678cedf46708ad5a6ecf02dc6562d1078ab03cb74edbea41e8043308"
 metafile = true
 
 [[files]]
@@ -612,12 +612,12 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs-create.toml"
-hash = "dc7f68cb657d9cd9fea8edacb032e10e6c8c5a7335ab749ffc276c0d7c67b5fb"
+hash = "67668a78c0e9b5c40099cf8b56f7fa3ec28a77150269a9d745f2fb066cdd50e3"
 metafile = true
 
 [[files]]
 file = "mods/kubejs-forge.toml"
-hash = "de2bc50aa2cfedbf89b8eaf1acfdad6b28300ad9a5b5f9d3e9e11d5f5cb9af0f"
+hash = "cd6fdf85a474e7b1f3feeb067dbff1298153fb024a17717c9646715b150f4bf1"
 metafile = true
 
 [[files]]
@@ -817,7 +817,7 @@ metafile = true
 
 [[files]]
 file = "mods/relics-mod.toml"
-hash = "e8311c04dde91bac7c0a8f1016736bff8a699b7cf3a9a6f16aae6ea4e412448a"
+hash = "7acca86cb7a394693bb25214710640c2db6c5f8dc0c36a5a2e7ffe1977a46465"
 metafile = true
 
 [[files]]
@@ -827,7 +827,7 @@ metafile = true
 
 [[files]]
 file = "mods/retail.toml"
-hash = "0a953319558f4449723208cf27b44d779140df580c60308b38791f3b7dd0f60f"
+hash = "c0a2873a94296375b6e9087f33a0761d277ea2e049e4554127c57a730bc84d0b"
 metafile = true
 
 [[files]]
@@ -837,7 +837,7 @@ metafile = true
 
 [[files]]
 file = "mods/rs-requestify.toml"
-hash = "3632d86ee725b57e32c9ccde34d3ca493324a7602f555387d4518fc8e362622c"
+hash = "caccb2e23d075f74f228003afa3d535f51156f134c7c31c1bed53d046f108b4e"
 metafile = true
 
 [[files]]
