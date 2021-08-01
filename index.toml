@@ -766,6 +766,11 @@ hash = "b8e5e612c5545c9ce380b91b2f72671776c5c4a5ce539c1d1b05d6b7d794a1c3"
 metafile = true
 
 [[files]]
+file = "mods/progressiveperipherals.toml"
+hash = "7ebece570f311e7abdb0989bf009de737238584a03913ed87a8f3d0f8a11374c"
+metafile = true
+
+[[files]]
 file = "mods/property-modifier.toml"
 hash = "d232f7a1bdb68a529af61951ad3845cb8dcd5b7996878a612e0c88dcae3a6c13"
 metafile = true
