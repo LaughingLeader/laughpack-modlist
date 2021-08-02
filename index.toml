@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.toml"
-hash = "b9bdb439cec93d8ce49fde599a716138c22b25b3bf728215f5494aec63c47cce"
+hash = "9647a2f72c8b2c794697d0d0bb62b1e0229f42a16a3cdc938c1a6a5f9480ceb6"
 metafile = true
 
 [[files]]
@@ -482,7 +482,7 @@ metafile = true
 
 [[files]]
 file = "mods/flywheel.toml"
-hash = "c7740fa56094dcc9e611bc1e3f8e84f2a85b8b9bc6c8786106145937a359e952"
+hash = "7ff12e6d5b487b66c8d303af457b10e7c2d69f8b8678e2dadcf6034354da3775"
 metafile = true
 
 [[files]]
