@@ -1,15 +1,15 @@
 name = "Better Foliage"
-filename = "BetterFoliage-2.7.0-Forge-1.16.5.jar"
+filename = "BetterFoliage-2.7.1-Forge-1.16.5.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3406/437/BetterFoliage-2.7.0-Forge-1.16.5.jar"
+url = "https://edge.forgecdn.net/files/3409/419/BetterFoliage-2.7.1-Forge-1.16.5.jar"
 hash-format = "murmur2"
-hash = "1151301220"
+hash = "3364822755"
 
 [update]
 [update.curseforge]
-file-id = 3406437
+file-id = 3409419
 project-id = 228529
 release-channel = "beta"
 

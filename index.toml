@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-foliage.toml"
-hash = "d31d6d8da9e4088758f117f9d2821808942455c21bedbf2c45ae3ad3934c673f"
+hash = "4632f4b84ef0d0bc63d83e4bf1cac762de1eade94a18d9d99d4f900c119757f6"
 metafile = true
 
 [[files]]
@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.toml"
-hash = "637f00973a52abb4815fcf1ceb511ab9258e728fe57b2b1f7a0a6953ed4f6f6f"
+hash = "99d2dcbbf0156d4aecc453a98b04ccebebc1e0262369c65a0f7c7426aa62705a"
 metafile = true
 
 [[files]]
@@ -497,7 +497,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.toml"
-hash = "120ca421678cedf46708ad5a6ecf02dc6562d1078ab03cb74edbea41e8043308"
+hash = "e49187873e4bc103b16808c983e03638a36f71b8e76823b1e23d69a5a84775c0"
 metafile = true
 
 [[files]]

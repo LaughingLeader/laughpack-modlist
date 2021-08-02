@@ -1,14 +1,14 @@
 name = "FTB Library (Forge)"
-filename = "ftb-library-forge-1605.3.1-build.54.jar"
+filename = "ftb-library-forge-1605.3.1-build.56.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3408/532/ftb-library-forge-1605.3.1-build.54.jar"
+url = "https://edge.forgecdn.net/files/3409/433/ftb-library-forge-1605.3.1-build.56.jar"
 hash-format = "murmur2"
-hash = "1562857978"
+hash = "3506289796"
 
 [update]
 [update.curseforge]
-file-id = 3408532
+file-id = 3409433
 project-id = 404465
 release-channel = "beta"
