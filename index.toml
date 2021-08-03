@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.toml"
-hash = "693d51b75c5fb6afdd1e6bad0307e8f7d5038db613f6cb331b964a5c2990dd10"
+hash = "395634df555ea08d118f9c16e37aef7ad0eb7e7495dc90e8a95e410430e7e01b"
 metafile = true
 
 [[files]]
@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/comforts.toml"
-hash = "ea18992369acda1e754c862729ca63f89662d095ada8d25f3cefc9880c4b07e1"
+hash = "a964245ea0fe76e9c50e8558f8090c795ce485c68d7b13a3c6ff38d82d54fbda"
 metafile = true
 
 [[files]]
@@ -456,11 +456,6 @@ hash = "1e9d589ba42e7cf5f1d2d3072115c16ce696b3d8bf1cb98ee060be52109a8ec8"
 metafile = true
 
 [[files]]
-file = "mods/fancymenu.toml"
-hash = "52a09873eb822422647eea9d6831d1175a2e531b74b3c8de39e4ec035d5ddcca"
-metafile = true
-
-[[files]]
 file = "mods/fastfurnace.toml"
 hash = "33080cb860556b54d31ae31188c78d161e190f4b469dbd49e0e11c03c9f8523d"
 metafile = true
@@ -582,7 +577,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.toml"
-hash = "95c15f21848c83a4ab43fe392b872e2219786b8cca4ab05b354dd1d4e5f784ea"
+hash = "032dc29c642b9a99f56aa379811948c1dcdfcb290525c44b71900b64fb5aa68d"
 metafile = true
 
 [[files]]
