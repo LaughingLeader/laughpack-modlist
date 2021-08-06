@@ -1,14 +1,14 @@
 name = "KubeJS (Forge)"
-filename = "kubejs-forge-1605.3.13-build.55.jar"
+filename = "kubejs-forge-1605.3.14-build.60.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3408/31/kubejs-forge-1605.3.13-build.55.jar"
+url = "https://edge.forgecdn.net/files/3414/365/kubejs-forge-1605.3.14-build.60.jar"
 hash-format = "murmur2"
-hash = "204741490"
+hash = "1391563748"
 
 [update]
 [update.curseforge]
-file-id = 3408031
+file-id = 3414365
 project-id = 238086
 release-channel = "beta"

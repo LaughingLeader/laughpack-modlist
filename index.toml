@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/advancement-plaques.toml"
-hash = "5afbfbb472c9d3aa23e3afecbcfbd32d91defb0466d24763a0bb5fcf0d51e094"
+hash = "15722d8641a49cd3f18a93d0335fba8c91c2730a80be70bd98fa9f3963552f45"
 metafile = true
 
 [[files]]
@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/citadel.toml"
-hash = "5598bf7661a1384e41b9fe41c39eb277c22e3bf7c62f2461d1e3d2ad7b3aea9e"
+hash = "dc7ff09a7dcde33964ce50155408fa2f21251dc95be329fcd7f2a97a6b0d7c9b"
 metafile = true
 
 [[files]]
@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.toml"
-hash = "99d2dcbbf0156d4aecc453a98b04ccebebc1e0262369c65a0f7c7426aa62705a"
+hash = "ec4128fa05233e1eddaa6e2a4f0443d166e28234f8cca777049df21b73b5d009"
 metafile = true
 
 [[files]]
@@ -387,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamictrees.toml"
-hash = "9daa815da8ba53231e3d4b6066b21001094e78560b9ade8ad5dde555d3eb9d70"
+hash = "82667c7b03f00b508d81aefc5e6cc0156687270589ec0e038ffc7b2ee57250db"
 metafile = true
 
 [[files]]
@@ -477,7 +477,7 @@ metafile = true
 
 [[files]]
 file = "mods/flywheel.toml"
-hash = "7ff12e6d5b487b66c8d303af457b10e7c2d69f8b8678e2dadcf6034354da3775"
+hash = "0f8ee9f395cd555172d4571eab60c082b92c947719ceb0c4a9f0080ea52bd9a1"
 metafile = true
 
 [[files]]
@@ -522,7 +522,7 @@ metafile = true
 
 [[files]]
 file = "mods/glassential.toml"
-hash = "232296ebc4cd10b24946c08c8be8a20e83634c98ff2eeff1dd55e140c04e7513"
+hash = "bb13fddefee9f71de124880ea9cbf7b670d46d2eb082efe378b4c2145bcf14af"
 metafile = true
 
 [[files]]
@@ -612,7 +612,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs-forge.toml"
-hash = "cd6fdf85a474e7b1f3feeb067dbff1298153fb024a17717c9646715b150f4bf1"
+hash = "002fb88ab031d3032689716b745de8eb1fcb2c3979f40dd056a1b48cbf876594"
 metafile = true
 
 [[files]]
@@ -897,7 +897,7 @@ metafile = true
 
 [[files]]
 file = "mods/small-ships.toml"
-hash = "07c34911b628511d122a198edd782354d667928a83d01547e03ca32e9d2765c0"
+hash = "f1b87833ad18623ffb1a6adcfe280c384a64eec75bb50e5ab4301985b41b5aa6"
 metafile = true
 
 [[files]]
@@ -917,7 +917,7 @@ metafile = true
 
 [[files]]
 file = "mods/terraforged.toml"
-hash = "137ef18d26d2e8d5bae8bec920f4cb8ef14fe4609d32ba07b02fa926c4738649"
+hash = "9d9873dbcad12295acbe5dc1c0f7a47f23dd8975f37fb7b6e31dfad14560ae6c"
 metafile = true
 
 [[files]]
@@ -937,7 +937,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-twilight-forest.toml"
-hash = "8f0a61ed7f1088ba139c18b51ff2268ac83d82a58b80b27bf31086bedcaa22e8"
+hash = "06b95c31df26a4b15f96eded5b4764528ba254a5ca0d58c8900867ef1e7c5901"
 metafile = true
 
 [[files]]
@@ -1037,7 +1037,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-api.toml"
-hash = "b6ac554b43759c27bc54a916acd80957292bf981b5a82d70c75aee56b7860626"
+hash = "4c3f8a0d47f58bf9f0875e60312f2fa2ecb021ae81494c401b7253c57a92e5fc"
 metafile = true
 
 [[files]]
@@ -1052,7 +1052,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-strongholds.toml"
-hash = "246e2bb3031bae0dc3944e3dccf952d203f0290eb4f5dc576c04e5147c93c29b"
+hash = "7d62779a3f1f5bc5b4c7a44e6bac539b7527cdec9aa95593a23479cbe3628c7a"
 metafile = true
 
 [[files]]
