@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-forge.toml"
-hash = "685bee94d5ca129fb12dece0ae53c4fcf8d205d2a53ba0eff9b9f017fa83dcb9"
+hash = "7ed815e93a1d11ea2f6d3f788ecb7fc6c9e14055a9b5a0c7a14e038f95150d0d"
 metafile = true
 
 [[files]]
@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.toml"
-hash = "ec4128fa05233e1eddaa6e2a4f0443d166e28234f8cca777049df21b73b5d009"
+hash = "63fd47b0c60936828ff2336093dfd23dc6ef11295faabe4fe779352be86685bb"
 metafile = true
 
 [[files]]
@@ -437,7 +437,7 @@ metafile = true
 
 [[files]]
 file = "mods/environmental.toml"
-hash = "f369549950a75cc147d093b36a9ffce7b379cd06d4da063a5d292828a34f0d49"
+hash = "4aafb2371d1358aac39d9914377b6f867e119ec6d55ff23a441b052e89f3bb4f"
 metafile = true
 
 [[files]]
@@ -492,7 +492,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.toml"
-hash = "e49187873e4bc103b16808c983e03638a36f71b8e76823b1e23d69a5a84775c0"
+hash = "da471100f0ccf388c204544d92ec56cafe0b1c32ca0c0b3b23747f518eac3b00"
 metafile = true
 
 [[files]]
@@ -527,7 +527,7 @@ metafile = true
 
 [[files]]
 file = "mods/global-emeralds-forge.toml"
-hash = "a6ab627a426c7ca49227234e104e04793ce09315399b3fad9c99ab5adbc32e8c"
+hash = "83d00a91630ecec0bd81757ca88b466f12820762465c2dc06c7084c55fa1d15d"
 metafile = true
 
 [[files]]
@@ -577,7 +577,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.toml"
-hash = "032dc29c642b9a99f56aa379811948c1dcdfcb290525c44b71900b64fb5aa68d"
+hash = "5f3b03591a33f15d45c6d78438f1702fab8d1373ac864742d7cc2022cca618ef"
 metafile = true
 
 [[files]]
@@ -587,7 +587,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-calculation.toml"
-hash = "a0023e9630d5acee6050e17a2b8bd51b1fbdc88d5f6a56c75bf7a182b93033bd"
+hash = "abcf54753d928ef364b022ae35d70d0db09c72af23803b8fc656c2adbe8b88ab"
 metafile = true
 
 [[files]]
@@ -887,7 +887,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "5d4eaa675ef990f5c7a95dfd40e07651d34f21f55cc884abcc37994bd3f0a60f"
+hash = "71b248236512ec6bce16b42a984c2fc01964fd4f7abfc3b77983e93cb24c751e"
 metafile = true
 
 [[files]]
