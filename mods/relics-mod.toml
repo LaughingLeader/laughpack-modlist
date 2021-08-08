@@ -1,14 +1,14 @@
 name = "Relics"
-filename = "relics-0.2.4.jar"
+filename = "relics-0.2.5.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3408/343/relics-0.2.4.jar"
+url = "https://edge.forgecdn.net/files/3418/886/relics-0.2.5.jar"
 hash-format = "murmur2"
-hash = "307769696"
+hash = "2077567415"
 
 [update]
 [update.curseforge]
-file-id = 3408343
+file-id = 3418886
 project-id = 445274
 release-channel = "beta"

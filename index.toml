@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.toml"
-hash = "cc49b3ecd9e49cd31c34584f6cd9a68098b4ccce20049bd445c4997a958b91e9"
+hash = "b0d74034f73e48bb83b54e994a1516b8c03719aa09f33d8bec54afb2ce063c6d"
 metafile = true
 
 [[files]]
@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunkpregenerator.toml"
-hash = "af581069116e7c2755a2b321da5d2068e183d7c37569cf0e1d8cb210eb2eee63"
+hash = "6202c15f5f6396387aed16e66d656153f967e63e6d2948dbf0fddcdadbfbfb6c"
 metafile = true
 
 [[files]]
@@ -617,7 +617,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs-forge.toml"
-hash = "002fb88ab031d3032689716b745de8eb1fcb2c3979f40dd056a1b48cbf876594"
+hash = "59104443bd54e99f15bab286e71cd3741dd970b66124d08a3dec78007a02968c"
 metafile = true
 
 [[files]]
@@ -777,7 +777,7 @@ metafile = true
 
 [[files]]
 file = "mods/progressiveperipherals.toml"
-hash = "7ebece570f311e7abdb0989bf009de737238584a03913ed87a8f3d0f8a11374c"
+hash = "48dc0c01591c083e20f161a34bd299f5ad13881b2cfbbdd56b6ccce801f93de3"
 metafile = true
 
 [[files]]
@@ -832,7 +832,7 @@ metafile = true
 
 [[files]]
 file = "mods/relics-mod.toml"
-hash = "7acca86cb7a394693bb25214710640c2db6c5f8dc0c36a5a2e7ffe1977a46465"
+hash = "4f81d82bd97d33c562369eb36852ebde80db93c02014c35886da9c6642aaf7b6"
 metafile = true
 
 [[files]]
@@ -892,7 +892,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "71b248236512ec6bce16b42a984c2fc01964fd4f7abfc3b77983e93cb24c751e"
+hash = "04fb095b7651526fb354a78988df432c47d7e1650a10a79a1c0db41d88fde871"
 metafile = true
 
 [[files]]
@@ -952,7 +952,7 @@ metafile = true
 
 [[files]]
 file = "mods/titanium.toml"
-hash = "6fdcc9ab0243f762d8f1d5b646055256e66badd23d6c79dfc5932384e2a871b1"
+hash = "f4dfb0d2a1acb706eaf7e1b22d532336ff010319ddba03c3de9aad93136258dd"
 metafile = true
 
 [[files]]
