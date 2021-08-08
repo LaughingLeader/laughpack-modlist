@@ -536,11 +536,6 @@ hash = "bb13fddefee9f71de124880ea9cbf7b670d46d2eb082efe378b4c2145bcf14af"
 metafile = true
 
 [[files]]
-file = "mods/global-emeralds-forge.toml"
-hash = "83d00a91630ecec0bd81757ca88b466f12820762465c2dc06c7084c55fa1d15d"
-metafile = true
-
-[[files]]
 file = "mods/immersive-engineering.toml"
 hash = "998978e4a8e787420f4f052b95b724ccd55f7d4eb1001f585b532dc8c7f7b391"
 metafile = true
