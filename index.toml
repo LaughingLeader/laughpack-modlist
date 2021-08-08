@@ -771,11 +771,6 @@ hash = "1011ba5c105306e0e47bf9a112ae8ff0edc8018729c91d80f97cb06b682200c3"
 metafile = true
 
 [[files]]
-file = "mods/portality.toml"
-hash = "b8e5e612c5545c9ce380b91b2f72671776c5c4a5ce539c1d1b05d6b7d794a1c3"
-metafile = true
-
-[[files]]
 file = "mods/progressiveperipherals.toml"
 hash = "48dc0c01591c083e20f161a34bd299f5ad13881b2cfbbdd56b6ccce801f93de3"
 metafile = true
@@ -948,11 +943,6 @@ metafile = true
 [[files]]
 file = "mods/time-control.toml"
 hash = "94c1e25ad13624d6ba388bcb0a4f508a72ed96e82b5ef36968baa1c597f19ecd"
-metafile = true
-
-[[files]]
-file = "mods/titanium.toml"
-hash = "f4dfb0d2a1acb706eaf7e1b22d532336ff010319ddba03c3de9aad93136258dd"
 metafile = true
 
 [[files]]
