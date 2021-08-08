@@ -1,0 +1,14 @@
+name = "Dynamic Trees - TerraForged"
+filename = "DynamicTreesTerraForged-1.16.5-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3331/778/DynamicTreesTerraForged-1.16.5-1.0.0.jar"
+hash-format = "murmur2"
+hash = "2488811286"
+
+[update]
+[update.curseforge]
+file-id = 3331778
+project-id = 488347
+release-channel = "beta"

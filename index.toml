@@ -386,6 +386,11 @@ hash = "9a40ff3604bd0f0bdaa17ca6d8fd33c795be1219672cc748539cd8172a09f5b7"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-trees-terraforged.toml"
+hash = "6267d69980e0ee0339d090a1e9dea9cdb409c338641a8f9ce27bae4c6d1f1940"
+metafile = true
+
+[[files]]
 file = "mods/dynamictrees.toml"
 hash = "82667c7b03f00b508d81aefc5e6cc0156687270589ec0e038ffc7b2ee57250db"
 metafile = true
