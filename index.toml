@@ -251,6 +251,11 @@ hash = "a964245ea0fe76e9c50e8558f8090c795ce485c68d7b13a3c6ff38d82d54fbda"
 metafile = true
 
 [[files]]
+file = "mods/compact-ores.toml"
+hash = "70c20028fe5ea61441fb97dd06cddce205192ded63e0ed505f542407d6eac1e3"
+metafile = true
+
+[[files]]
 file = "mods/configured.toml"
 hash = "58a013248d3561b9d9151beed9e27783af72ba442ffdd214fc287dca8e01e6fb"
 metafile = true
