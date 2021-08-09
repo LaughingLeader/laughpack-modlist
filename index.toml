@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/advanced-peripherals.toml"
-hash = "f4977ea9b83719cf8f150121573f5bfe4b8bdb98bc9c5833182b5a8ae3cfda56"
+hash = "4b16b34cd30e91e8f16bc707717e7a09b5726daa1eeefe5a5e4ecbe92ff5e76a"
 metafile = true
 
 [[files]]
@@ -277,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.toml"
-hash = "63fd47b0c60936828ff2336093dfd23dc6ef11295faabe4fe779352be86685bb"
+hash = "8180a263addfeb961c9fe46f3661982d8fa7a244753a8a90e84fb12bba519c56"
 metafile = true
 
 [[files]]
@@ -472,7 +472,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastsuite.toml"
-hash = "a0157ed7541bf7377b9437d0ccf8356fe0c5a51a36851a632d47408292b8417d"
+hash = "3763cd86a59dc6ceb114388ee3760a8b1bd564a69114ac79a5370bd5ec611a3a"
 metafile = true
 
 [[files]]
@@ -492,7 +492,7 @@ metafile = true
 
 [[files]]
 file = "mods/fps-reducer.toml"
-hash = "d303158758678cba95f5f83f192265bea3bcd62789fb22cd174da3ff6ece045a"
+hash = "f8d92897f9fae06303bf30a9875e59f624c419eba6435318be09f7ea0f0e7ccb"
 metafile = true
 
 [[files]]
@@ -772,7 +772,7 @@ metafile = true
 
 [[files]]
 file = "mods/progressiveperipherals.toml"
-hash = "48dc0c01591c083e20f161a34bd299f5ad13881b2cfbbdd56b6ccce801f93de3"
+hash = "b5e3172a2f4c3e4e3524b096094594f2f22d99c48c2c7798c5eafa95acbf0e09"
 metafile = true
 
 [[files]]
@@ -862,7 +862,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.toml"
-hash = "1df79c491fd2376d17f8bab881e1305fc087c5b7ddc96d52823e05a25f3fcddf"
+hash = "6d2be4b7d5cf35006d38038c31644b652d54de8e8f5298d6227e0d67344fe3fc"
 metafile = true
 
 [[files]]
@@ -912,7 +912,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.toml"
-hash = "b7fb20366908ef3bcf62c9210bb60b685a0ec8c6efa9b11a903a583d78475294"
+hash = "2628dad7c945cd80acdf9ea94e9e9d5a74702110da29dd48209de3f873dabc83"
 metafile = true
 
 [[files]]

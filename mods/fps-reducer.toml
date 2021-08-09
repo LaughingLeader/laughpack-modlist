@@ -1,15 +1,15 @@
 name = "FPS Reducer"
-filename = "FpsReducer-forge-1.21-mc1.16.5.jar"
+filename = "FpsReducer-forge-1.23-mc1.16.5.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3409/850/FpsReducer-forge-1.21-mc1.16.5.jar"
+url = "https://edge.forgecdn.net/files/3419/933/FpsReducer-forge-1.23-mc1.16.5.jar"
 hash-format = "murmur2"
-hash = "2626044509"
+hash = "2329459138"
 
 [update]
 [update.curseforge]
-file-id = 3409850
+file-id = 3419933
 project-id = 280294
 release-channel = "beta"
 
