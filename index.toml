@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.toml"
-hash = "b0d74034f73e48bb83b54e994a1516b8c03719aa09f33d8bec54afb2ce063c6d"
+hash = "9452dbf98c04b5e0b0f80a58fcf6daa8d4f4087b9e02c1178a80663cb2394e80"
 metafile = true
 
 [[files]]
@@ -323,16 +323,6 @@ metafile = true
 [[files]]
 file = "mods/custom-player-models.toml"
 hash = "03fe4649a42a3ad058735f41cfdbc4ddc449b56dbed5c244e19832bf2bdfd2ec"
-metafile = true
-
-[[files]]
-file = "mods/decorative-blocks-modded-compat.toml"
-hash = "b896dc4b7b52cf3d1a2e75fc858ce3aae932585f63d68feb547f5dcab419a6f7"
-metafile = true
-
-[[files]]
-file = "mods/decorative-blocks.toml"
-hash = "f4b9d31b2c62d5232918d87a47adfc14b028c5141c2dd3a9aa8b5159531462c0"
 metafile = true
 
 [[files]]
@@ -862,7 +852,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.toml"
-hash = "1df79c491fd2376d17f8bab881e1305fc087c5b7ddc96d52823e05a25f3fcddf"
+hash = "6d2be4b7d5cf35006d38038c31644b652d54de8e8f5298d6227e0d67344fe3fc"
 metafile = true
 
 [[files]]
@@ -912,7 +902,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.toml"
-hash = "2558ce2be56e5a31af35930eda1d011264390f9504a44a6e40a75ed19340fdad"
+hash = "2628dad7c945cd80acdf9ea94e9e9d5a74702110da29dd48209de3f873dabc83"
 metafile = true
 
 [[files]]
