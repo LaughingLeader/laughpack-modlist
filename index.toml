@@ -832,7 +832,7 @@ metafile = true
 
 [[files]]
 file = "mods/rhino.toml"
-hash = "3e7bd064c6f836627c1c3f8fd76569d7b4207cfd7c5541bc6a506d01df74b6e2"
+hash = "2d69f08d281921203517a11d0b5b6464201f38ed335d93d7a986224f44b11d7f"
 metafile = true
 
 [[files]]
@@ -877,7 +877,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "04fb095b7651526fb354a78988df432c47d7e1650a10a79a1c0db41d88fde871"
+hash = "f1c843c6c0a882d032a8430ec825f2e9a30fce0dcb0d709a50337d3b26dd575a"
 metafile = true
 
 [[files]]
@@ -902,7 +902,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.toml"
-hash = "2628dad7c945cd80acdf9ea94e9e9d5a74702110da29dd48209de3f873dabc83"
+hash = "929530b428b295272aa091defc5e049be2718764db4ea1ef75224ebbd2e50c70"
 metafile = true
 
 [[files]]
