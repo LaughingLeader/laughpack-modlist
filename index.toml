@@ -101,11 +101,6 @@ hash = "ba43cb5a59baa9523358097e54a87821330432737ae3222057392c8bb0fefb85"
 metafile = true
 
 [[files]]
-file = "mods/better-badlands.toml"
-hash = "4d365de4084aa0a9d676ad7e0c28d4272196934c2a59d2c9930043ddc2b9358b"
-metafile = true
-
-[[files]]
 file = "mods/better-foliage.toml"
 hash = "4632f4b84ef0d0bc63d83e4bf1cac762de1eade94a18d9d99d4f900c119757f6"
 metafile = true
@@ -838,11 +833,6 @@ metafile = true
 [[files]]
 file = "mods/rs-requestify.toml"
 hash = "ad7fc3ec0b76af3c7a5124aac6e0d512e6f27e01e7d127ffa48c4774ddf478c6"
-metafile = true
-
-[[files]]
-file = "mods/save-my-stronghold.toml"
-hash = "bb1a9b52250e6fdc729316761075e7d1979d67b00b99c68e3d4cb1b054838f11"
 metafile = true
 
 [[files]]
