@@ -512,7 +512,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.toml"
-hash = "6af3376f988855aff67d7bebd36eea4cafc3e6be566663457dd9f25c6910cf38"
+hash = "108ce3ea69d2dcc75c6488b1a3453e7db62a14b7b1041e6348e00e5e1087007d"
 metafile = true
 
 [[files]]
@@ -617,7 +617,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.toml"
-hash = "00b1ed5df26f54a493ea906c61203ca5607ef9ee74e666086059e61ab2a41121"
+hash = "c636bc815f6437cc76fc9e2e89a9cb1ba3bfd0cf00e15953a750026e695fcd31"
 metafile = true
 
 [[files]]
@@ -892,7 +892,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.toml"
-hash = "c3a4adbc2fe228f3bd10fe8d30bb39b0741846173fc573f94d52b5424b0e1bac"
+hash = "c7c01c4e09e50abba9f4dc7ee37b756488da96f27ed1f0c59b5c85335d6cf8fd"
 metafile = true
 
 [[files]]
