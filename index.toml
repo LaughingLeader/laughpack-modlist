@@ -541,6 +541,11 @@ hash = "daf0734e6e22207d7597a1eb17f3b52d1679cf0c45f46c2a64a55f9c7546745d"
 metafile = true
 
 [[files]]
+file = "mods/infernal-expansion.toml"
+hash = "5c608e6f137ba78215d954c630d4930d59ddb5a3f1713700f784cb1870a14717"
+metafile = true
+
+[[files]]
 file = "mods/inventory-essentials.toml"
 hash = "e07e6f702597417f1b6d23466bb586d3353524cb3195f65db155123c1bfeeb61"
 metafile = true
@@ -698,6 +703,11 @@ metafile = true
 [[files]]
 file = "mods/mrcrayfish-more-furniture-mod.toml"
 hash = "3d66c5b964952094734e2988a5b8353a0fc51c77a18b56ca8697e7cfcffd8cb1"
+metafile = true
+
+[[files]]
+file = "mods/much-more-mod-compat.toml"
+hash = "15a647bd9a094405b04d609f55dd555e6eedf55f6a35dac6164c42eacd94cfc7"
 metafile = true
 
 [[files]]
