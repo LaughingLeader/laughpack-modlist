@@ -436,6 +436,11 @@ hash = "3b1138e4a95f6984617e913dc693d864e02badeaa681db31b259fb1416fa5f5a"
 metafile = true
 
 [[files]]
+file = "mods/enhanced-mushrooms.toml"
+hash = "4b994f9b85692611b583db72006eb87a30c59232d042202018f6c345cc4460ce"
+metafile = true
+
+[[files]]
 file = "mods/entity-culling.toml"
 hash = "8da30365a9abe56959ade8d381846ce5853972916671d89a3d050328deb68318"
 metafile = true
