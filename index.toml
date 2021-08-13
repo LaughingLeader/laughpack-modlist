@@ -552,7 +552,7 @@ metafile = true
 
 [[files]]
 file = "mods/in-control.toml"
-hash = "daf0734e6e22207d7597a1eb17f3b52d1679cf0c45f46c2a64a55f9c7546745d"
+hash = "9af9484136a1fe813181b72494fcb5579b8dc1379d0eef05d7add72097a7d40d"
 metafile = true
 
 [[files]]
