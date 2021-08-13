@@ -321,6 +321,16 @@ hash = "03fe4649a42a3ad058735f41cfdbc4ddc449b56dbed5c244e19832bf2bdfd2ec"
 metafile = true
 
 [[files]]
+file = "mods/decorative-blocks-modded-compat.toml"
+hash = "b896dc4b7b52cf3d1a2e75fc858ce3aae932585f63d68feb547f5dcab419a6f7"
+metafile = true
+
+[[files]]
+file = "mods/decorative-blocks.toml"
+hash = "f4b9d31b2c62d5232918d87a47adfc14b028c5141c2dd3a9aa8b5159531462c0"
+metafile = true
+
+[[files]]
 file = "mods/default-options.toml"
 hash = "3bfc3839706cef60d0c0f99093f19506f39ffb3c1bde2357f6dc8ded9aceaea4"
 metafile = true
