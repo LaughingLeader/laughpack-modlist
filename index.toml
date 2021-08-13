@@ -1031,6 +1031,11 @@ hash = "e9844fd41a8d2878df4f0a7f2bc4776f08f419f3015613589f94aa211d14aae7"
 metafile = true
 
 [[files]]
+file = "mods/yungs-better-dungeons.toml"
+hash = "57396ea5a576b02cc0e96a25eba0735c0081ff3a0aa416afaa701400867f9d6b"
+metafile = true
+
+[[files]]
 file = "mods/yungs-better-mineshafts-forge.toml"
 hash = "07998888e7314292d0aa0352ebc703b5aa7e8d1f37f4f51fc6c1b5284b4ec085"
 metafile = true
