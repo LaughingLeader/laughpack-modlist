@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.toml"
-hash = "6bab30277f22dfc4d0c43bb2db7c02fbc9dff3c9a3bdf62b939ef2b74580909c"
+hash = "ba7867f549ec3993db1022bb239b2a106ea7cc0aa574b28fb9457fac3d722366"
 metafile = true
 
 [[files]]
@@ -602,7 +602,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs-forge.toml"
-hash = "59104443bd54e99f15bab286e71cd3741dd970b66124d08a3dec78007a02968c"
+hash = "f33db3905a731e074ca051900813ff17b4e0d7a5e84981873e815217b3a4491e"
 metafile = true
 
 [[files]]
@@ -617,7 +617,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.toml"
-hash = "648776806611cc52a3ca382d55eeca8f86c498f12445a9033d7ba25a48187b22"
+hash = "00b1ed5df26f54a493ea906c61203ca5607ef9ee74e666086059e61ab2a41121"
 metafile = true
 
 [[files]]
