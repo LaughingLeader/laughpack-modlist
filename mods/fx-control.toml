@@ -1,14 +1,14 @@
 name = "Fx Control!"
-filename = "fxcontrol-1.16-2.0.12.jar"
+filename = "fxcontrol-1.16-2.0.13.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3422/27/fxcontrol-1.16-2.0.12.jar"
+url = "https://edge.forgecdn.net/files/3424/917/fxcontrol-1.16-2.0.13.jar"
 hash-format = "murmur2"
-hash = "2324492577"
+hash = "846416223"
 
 [update]
 [update.curseforge]
-file-id = 3422027
+file-id = 3424917
 project-id = 313477
 release-channel = "beta"

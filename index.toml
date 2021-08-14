@@ -517,7 +517,7 @@ metafile = true
 
 [[files]]
 file = "mods/fx-control.toml"
-hash = "3bccbf236ea81e00385dab34d672e8653093a0ed8742a194d977147f0a1ab934"
+hash = "d0448b951267396d71014b662bccb451028699a5b3c2197973cb3909c3940cb3"
 metafile = true
 
 [[files]]
@@ -552,7 +552,7 @@ metafile = true
 
 [[files]]
 file = "mods/in-control.toml"
-hash = "9af9484136a1fe813181b72494fcb5579b8dc1379d0eef05d7add72097a7d40d"
+hash = "daf0734e6e22207d7597a1eb17f3b52d1679cf0c45f46c2a64a55f9c7546745d"
 metafile = true
 
 [[files]]
