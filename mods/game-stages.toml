@@ -1,14 +1,14 @@
 name = "Game Stages"
-filename = "GameStages-1.16.5-7.2.8.jar"
+filename = "GameStages-Forge-1.16.5-7.3.9.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3348/627/GameStages-1.16.5-7.2.8.jar"
+url = "https://edge.forgecdn.net/files/3424/775/GameStages-Forge-1.16.5-7.3.9.jar"
 hash-format = "murmur2"
-hash = "92174076"
+hash = "3334971200"
 
 [update]
 [update.curseforge]
-file-id = 3348627
+file-id = 3424775
 project-id = 268655
 release-channel = "beta"

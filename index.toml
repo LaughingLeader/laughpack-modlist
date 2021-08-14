@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.toml"
-hash = "ba7867f549ec3993db1022bb239b2a106ea7cc0aa574b28fb9457fac3d722366"
+hash = "1afef9886e28c6ce8e1db84b203520fc27ae4c6bbef3ca8ed2c90199374ce6e2"
 metafile = true
 
 [[files]]
@@ -522,7 +522,7 @@ metafile = true
 
 [[files]]
 file = "mods/game-stages.toml"
-hash = "91be221b7a29d6980a38f93caaa0528a0bf2c6a4fd14f0a5e353263234e4714e"
+hash = "f9eb41fe7c6580066e3a1702f7a6a87d7836dfa14c75070ca3913dfcba6d819c"
 metafile = true
 
 [[files]]
