@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.toml"
-hash = "9452dbf98c04b5e0b0f80a58fcf6daa8d4f4087b9e02c1178a80663cb2394e80"
+hash = "05db92fa08fee08bb33d55da4f3bf4d7bb6b8ce418dbf4cb8c743ccedb6fc874"
 metafile = true
 
 [[files]]
@@ -622,7 +622,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs-forge.toml"
-hash = "f33db3905a731e074ca051900813ff17b4e0d7a5e84981873e815217b3a4491e"
+hash = "dcb8e4485bcb01852883c7780906aebb87cdbfcbfebb9e53debfcb93f099d365"
 metafile = true
 
 [[files]]
@@ -637,7 +637,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.toml"
-hash = "c636bc815f6437cc76fc9e2e89a9cb1ba3bfd0cf00e15953a750026e695fcd31"
+hash = "667b7d99b1bbf21d2084d2bca891cb3d2a917dde236cd3a99d150937067c7bd4"
 metafile = true
 
 [[files]]
