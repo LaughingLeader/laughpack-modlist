@@ -1,0 +1,14 @@
+name = "Cooking for Blockheads"
+filename = "CookingForBlockheads_1.16.5-9.3.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3368/22/CookingForBlockheads_1.16.5-9.3.3.jar"
+hash-format = "murmur2"
+hash = "639532863"
+
+[update]
+[update.curseforge]
+file-id = 3368022
+project-id = 231484
+release-channel = "beta"

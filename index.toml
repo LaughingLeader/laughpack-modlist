@@ -266,6 +266,11 @@ hash = "df70eafbd2c3b35f92f3b0237c41f8811ef48dc5f98c72a2217f9fa92fd4978d"
 metafile = true
 
 [[files]]
+file = "mods/cooking-for-blockheads.toml"
+hash = "36ed7e5601ca76399bc602193fc04392f4793b586176267e591ba01e13c22909"
+metafile = true
+
+[[files]]
 file = "mods/corail-tombstone.toml"
 hash = "6f0a3c44b82f8bf726f2eb331f1c64a815df364b3ce9532aa325e10fe5d752de"
 metafile = true
