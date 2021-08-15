@@ -1,0 +1,19 @@
+name = "Farsight"
+filename = "farsight-1.5.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3366/983/farsight-1.5.jar"
+hash-format = "murmur2"
+hash = "910585662"
+
+[update]
+[update.curseforge]
+file-id = 3366983
+project-id = 495693
+release-channel = "beta"
+
+[option]
+optional = true
+description = "Farsight is a client-side util which lets you see much further in already visited chunks than the servers chunk distance. High view distance on client side, causes no additional load/lag."
+default = true

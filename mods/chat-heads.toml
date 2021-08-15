@@ -1,0 +1,19 @@
+name = "Chat Heads"
+filename = "chat_heads_forge-0.2.0.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3092/437/chat_heads_forge-0.2.0.jar"
+hash-format = "murmur2"
+hash = "3319427259"
+
+[update]
+[update.curseforge]
+file-id = 3092437
+project-id = 407206
+release-channel = "beta"
+
+[option]
+optional = true
+description = "This clientside mod adds player heads next to chat messages. It makes telling various people in chat apart a bit easier, and it just looks nice."
+default = true

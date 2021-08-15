@@ -186,6 +186,11 @@ hash = "c9ef0996f957dfa99ecb152fc88207a94e6988fa80118bd5bc3849730d82b021"
 metafile = true
 
 [[files]]
+file = "mods/chat-heads.toml"
+hash = "16baf265f23656ae32295b14279f7a1539b3ed09d9e408eaabee7e01a6333c5a"
+metafile = true
+
+[[files]]
 file = "mods/chatsound.toml"
 hash = "a73fb560e1e0e3002c34801dec50270d96f35d5dc7f4341e30ab94d46223ea04"
 metafile = true
@@ -473,6 +478,11 @@ metafile = true
 [[files]]
 file = "mods/extreme-sound-muffler.toml"
 hash = "1e9d589ba42e7cf5f1d2d3072115c16ce696b3d8bf1cb98ee060be52109a8ec8"
+metafile = true
+
+[[files]]
+file = "mods/farsight.toml"
+hash = "5fdbd64f25e4d2beaee01f3275d64257aa8e4e7b58eeff7f3c1d39c1a22d7ab7"
 metafile = true
 
 [[files]]
