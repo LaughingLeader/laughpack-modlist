@@ -1,14 +1,14 @@
 name = "Configured"
-filename = "configured-1.1.0-1.16.5.jar"
+filename = "configured-1.1.2-1.16.3.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3340/535/configured-1.1.0-1.16.5.jar"
+url = "https://edge.forgecdn.net/files/3425/835/configured-1.1.2-1.16.3.jar"
 hash-format = "murmur2"
-hash = "3237817924"
+hash = "2033790420"
 
 [update]
 [update.curseforge]
-file-id = 3340535
+file-id = 3425835
 project-id = 457570
 release-channel = "beta"
