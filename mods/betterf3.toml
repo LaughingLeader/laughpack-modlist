@@ -1,0 +1,18 @@
+name = "BetterF3"
+filename = "BetterF3-1.1.3-forge-1.16.5.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3293/637/BetterF3-1.1.3-forge-1.16.5.jar"
+hash-format = "murmur2"
+hash = "123733608"
+
+[update]
+[update.curseforge]
+file-id = 3293637
+project-id = 401648
+release-channel = "beta"
+
+[option]
+optional = true
+description = "BetterF3 is a mod that replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD. You can customize colors, position, add spacings, and more."

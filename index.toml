@@ -116,6 +116,11 @@ hash = "f4e7cff93d58a56cd65c8b54c2752933732d9b7fbdd3a36a564478a4e6ae2a94"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.toml"
+hash = "a4e6c3bfb4431f96a1c866c7079607f2323b94af5192bce8c17b790ed6ef04c6"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.toml"
 hash = "5020f1205810a00873dbf656bf0d31970862838f5c58da0c8749a35c04afce20"
 metafile = true
@@ -262,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/corail-tombstone.toml"
-hash = "5085fad3ac79f3ff1a1c7dcb1a0eae65cbb2c00f08de5b47d5c4c4c1316401c8"
+hash = "6f0a3c44b82f8bf726f2eb331f1c64a815df364b3ce9532aa325e10fe5d752de"
 metafile = true
 
 [[files]]
@@ -622,7 +627,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs-forge.toml"
-hash = "dcb8e4485bcb01852883c7780906aebb87cdbfcbfebb9e53debfcb93f099d365"
+hash = "e8852def706414970401cb4ec1a9878fddc623eb04158656723c94cb924bbd73"
 metafile = true
 
 [[files]]
@@ -782,7 +787,7 @@ metafile = true
 
 [[files]]
 file = "mods/progressiveperipherals.toml"
-hash = "b5e3172a2f4c3e4e3524b096094594f2f22d99c48c2c7798c5eafa95acbf0e09"
+hash = "431d42d7b31ee4904788d632cca449389efd445d5785064e0acbd932459dec10"
 metafile = true
 
 [[files]]
@@ -852,12 +857,12 @@ metafile = true
 
 [[files]]
 file = "mods/rhino.toml"
-hash = "2d69f08d281921203517a11d0b5b6464201f38ed335d93d7a986224f44b11d7f"
+hash = "974baa855f8cfb8290ceddab2a42bfdd1cb25d8d3f9ddb81747040d901361fbe"
 metafile = true
 
 [[files]]
 file = "mods/rs-requestify.toml"
-hash = "ad7fc3ec0b76af3c7a5124aac6e0d512e6f27e01e7d127ffa48c4774ddf478c6"
+hash = "5221ee6233093fcc9f86107d332ac7369ea964243946a728ae0221e5f8897b56"
 metafile = true
 
 [[files]]
@@ -902,7 +907,7 @@ metafile = true
 
 [[files]]
 file = "mods/small-ships.toml"
-hash = "f1b87833ad18623ffb1a6adcfe280c384a64eec75bb50e5ab4301985b41b5aa6"
+hash = "e61ffd555badcb0250e46269ae38dae8de9e5f9629eef627dc51ff9c9d45fad2"
 metafile = true
 
 [[files]]
