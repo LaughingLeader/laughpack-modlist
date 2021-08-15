@@ -627,7 +627,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs-forge.toml"
-hash = "e8852def706414970401cb4ec1a9878fddc623eb04158656723c94cb924bbd73"
+hash = "261aa9058d16df25fa4ca368fc7a35d68625a18fbc05b82dab3ab8f2f793ba14"
 metafile = true
 
 [[files]]
@@ -857,7 +857,7 @@ metafile = true
 
 [[files]]
 file = "mods/rhino.toml"
-hash = "35d88a038ae764747778c811669d94905722fdd998711d548f18a9a448111a82"
+hash = "160353de3a34b041e1b501ba4dd52b44c54498762ffc001e25cffab7b487f477"
 metafile = true
 
 [[files]]
