@@ -1,0 +1,14 @@
+name = "Nutritional Balance"
+filename = "nutritionalbalance-1.16.5-0.7.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3426/326/nutritionalbalance-1.16.5-0.7.7.jar"
+hash-format = "murmur2"
+hash = "1381682140"
+
+[update]
+[update.curseforge]
+file-id = 3426326
+project-id = 448222
+release-channel = "beta"

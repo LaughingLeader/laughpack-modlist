@@ -746,6 +746,11 @@ hash = "f9dae5bc129cf507c0d65b20149dfff2a7f3ec61b066374229979c6417eae464"
 metafile = true
 
 [[files]]
+file = "mods/nutritional-balance.toml"
+hash = "bb7b332d21b5aec08f801dd6d6f78178f7bab8e2bce06c9b4ba34ad35d916df0"
+metafile = true
+
+[[files]]
 file = "mods/offlineskins.toml"
 hash = "fa699528fe32e09ca36601445b4248743a647cb92eda9790d495eb9c1913d458"
 metafile = true
