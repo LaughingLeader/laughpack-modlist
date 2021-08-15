@@ -857,7 +857,7 @@ metafile = true
 
 [[files]]
 file = "mods/rhino.toml"
-hash = "974baa855f8cfb8290ceddab2a42bfdd1cb25d8d3f9ddb81747040d901361fbe"
+hash = "35d88a038ae764747778c811669d94905722fdd998711d548f18a9a448111a82"
 metafile = true
 
 [[files]]
