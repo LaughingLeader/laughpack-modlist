@@ -526,16 +526,6 @@ hash = "da471100f0ccf388c204544d92ec56cafe0b1c32ca0c0b3b23747f518eac3b00"
 metafile = true
 
 [[files]]
-file = "mods/ftb-ranks-forge.toml"
-hash = "27ff4f44ffd536aa8ed6122d16b15f40b18f95445c3b681ba40e703ca921ab54"
-metafile = true
-
-[[files]]
-file = "mods/furnace-mk2.toml"
-hash = "2519c10d30d05ebd4eca7f1694e00493f03a5b387fd3294d3a6265e63a4b4051"
-metafile = true
-
-[[files]]
 file = "mods/fx-control.toml"
 hash = "d0448b951267396d71014b662bccb451028699a5b3c2197973cb3909c3940cb3"
 metafile = true
@@ -771,11 +761,6 @@ hash = "fa699528fe32e09ca36601445b4248743a647cb92eda9790d495eb9c1913d458"
 metafile = true
 
 [[files]]
-file = "mods/one-player-sleeping.toml"
-hash = "bd7afadf02a6a139c5f509433981876f380a16532d7a7c779d5737530f05f39a"
-metafile = true
-
-[[files]]
 file = "mods/open-loader.toml"
 hash = "7e4fdbd39936b174a7b4981891932e2fad5f22edd9c4028249deb69c05b448ae"
 metafile = true
@@ -918,11 +903,6 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.toml"
 hash = "3c19e0b47137b35f8423ae2ebb898fcaa7bffac97680b111a0f74721f5f9c4aa"
-metafile = true
-
-[[files]]
-file = "mods/slab-machines.toml"
-hash = "5b46bfbbc0d8208605aaedc86bc86355cfe5725daa5ae9552f692f533d47be79"
 metafile = true
 
 [[files]]
