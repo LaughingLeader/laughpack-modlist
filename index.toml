@@ -847,7 +847,7 @@ metafile = true
 
 [[files]]
 file = "mods/relics-mod.toml"
-hash = "4f81d82bd97d33c562369eb36852ebde80db93c02014c35886da9c6642aaf7b6"
+hash = "bad0f1dc16945e0157db8b445b40bad4b9ab822270842ba75bef6f617faeb805"
 metafile = true
 
 [[files]]
@@ -862,7 +862,7 @@ metafile = true
 
 [[files]]
 file = "mods/rhino.toml"
-hash = "160353de3a34b041e1b501ba4dd52b44c54498762ffc001e25cffab7b487f477"
+hash = "11c84f95bbd7329c9bc6865777914c06eeb73cc0b39a4b254c0ccd7a0b35f927"
 metafile = true
 
 [[files]]
