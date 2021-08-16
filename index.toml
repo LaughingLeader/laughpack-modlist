@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/advancement-plaques.toml"
-hash = "15722d8641a49cd3f18a93d0335fba8c91c2730a80be70bd98fa9f3963552f45"
+hash = "a242e0c09e31251bc5e3168c96ede6cd5f4242a4dc56584975d24292acc88f75"
 metafile = true
 
 [[files]]
