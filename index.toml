@@ -946,11 +946,6 @@ hash = "13bd080a62764ee7ffc2ab435084e4795c0cad6175824ce225853d0569ec8f20"
 metafile = true
 
 [[files]]
-file = "mods/the-twilight-forest.toml"
-hash = "06b95c31df26a4b15f96eded5b4764528ba254a5ca0d58c8900867ef1e7c5901"
-metafile = true
-
-[[files]]
 file = "mods/time-control.toml"
 hash = "80dd3e04d8e880325d2ef652aee20f78c4b3d11b5e721eaf9a2e5dd64910dce8"
 metafile = true
