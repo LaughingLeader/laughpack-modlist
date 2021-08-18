@@ -646,6 +646,11 @@ hash = "bcb255ef19fee2e867f6605046da08f4857e401cfd98c3c0f92100ad53af821c"
 metafile = true
 
 [[files]]
+file = "mods/linfox-dimension-stack.toml"
+hash = "2fc4a65a0102e672b726bc905d32135a623c639b7433c11e3921ba226728c97f"
+metafile = true
+
+[[files]]
 file = "mods/lootr.toml"
 hash = "667b7d99b1bbf21d2084d2bca891cb3d2a917dde236cd3a99d150937067c7bd4"
 metafile = true

@@ -1,0 +1,14 @@
+name = "Vanilla Stacked Dimensions"
+filename = "Vanilla Dimension Stack 1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3198/437/Vanilla Dimension Stack 1.2.jar"
+hash-format = "murmur2"
+hash = "3856764827"
+
+[update]
+[update.curseforge]
+file-id = 3198437
+project-id = 444587
+release-channel = "beta"
