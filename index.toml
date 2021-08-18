@@ -556,6 +556,11 @@ hash = "ca2c2407189bee21346363f6fb23592f3a387d31509f1e06e297de013efa24b3"
 metafile = true
 
 [[files]]
+file = "mods/immersive-portals-for-forge.toml"
+hash = "e8a525729e695f806fbe8c5febb774ea30de8ab7c9fcfe9c7be45319dd2ef83d"
+metafile = true
+
+[[files]]
 file = "mods/immersiveposts.toml"
 hash = "a33a03efad8c62b6b61ff24a8bd1419e1b698e0cbbeebd483b71bbdba84dec2e"
 metafile = true
@@ -643,11 +648,6 @@ metafile = true
 [[files]]
 file = "mods/lazy-dfu-forge.toml"
 hash = "bcb255ef19fee2e867f6605046da08f4857e401cfd98c3c0f92100ad53af821c"
-metafile = true
-
-[[files]]
-file = "mods/linfox-dimension-stack.toml"
-hash = "2fc4a65a0102e672b726bc905d32135a623c639b7433c11e3921ba226728c97f"
 metafile = true
 
 [[files]]
