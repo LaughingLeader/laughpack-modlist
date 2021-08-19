@@ -1,0 +1,14 @@
+name = "Hourglass"
+filename = "hourglass-1.16.5-1.1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3431/81/hourglass-1.16.5-1.1.1.0.jar"
+hash-format = "murmur2"
+hash = "833526308"
+
+[update]
+[update.curseforge]
+file-id = 3431081
+project-id = 511172
+release-channel = "beta"

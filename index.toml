@@ -341,6 +341,11 @@ hash = "03fe4649a42a3ad058735f41cfdbc4ddc449b56dbed5c244e19832bf2bdfd2ec"
 metafile = true
 
 [[files]]
+file = "mods/dark-caverns.toml"
+hash = "64bb0acd29e0989a4bd48c78b8b679ed346067bfe94cc915ab6fd64b33dea040"
+metafile = true
+
+[[files]]
 file = "mods/decorative-blocks-modded-compat.toml"
 hash = "b896dc4b7b52cf3d1a2e75fc858ce3aae932585f63d68feb547f5dcab419a6f7"
 metafile = true
@@ -548,6 +553,11 @@ metafile = true
 [[files]]
 file = "mods/glassential.toml"
 hash = "bb13fddefee9f71de124880ea9cbf7b670d46d2eb082efe378b4c2145bcf14af"
+metafile = true
+
+[[files]]
+file = "mods/hourglass.toml"
+hash = "ea47de7a4c7993689c58e00a376d4adba0149bf73d3b970c44e3ab90321e056c"
 metafile = true
 
 [[files]]
@@ -953,11 +963,6 @@ metafile = true
 [[files]]
 file = "mods/tetranomicon.toml"
 hash = "13bd080a62764ee7ffc2ab435084e4795c0cad6175824ce225853d0569ec8f20"
-metafile = true
-
-[[files]]
-file = "mods/time-control.toml"
-hash = "80dd3e04d8e880325d2ef652aee20f78c4b3d11b5e721eaf9a2e5dd64910dce8"
 metafile = true
 
 [[files]]
