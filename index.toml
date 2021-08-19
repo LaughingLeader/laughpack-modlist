@@ -21,6 +21,11 @@ hash = "4b16b34cd30e91e8f16bc707717e7a09b5726daa1eeefe5a5e4ecbe92ff5e76a"
 metafile = true
 
 [[files]]
+file = "mods/advanced-rocketry.toml"
+hash = "ab268cafb8ec4e40c32575a4d54c5fc5804a8cabd9ed32d959fd1661bb2207d8"
+metafile = true
+
+[[files]]
 file = "mods/advancement-plaques.toml"
 hash = "2fceff3266218d0fbc89904aaa94b8cb1a0e4985aa56a800678dbcd06a86645d"
 metafile = true
@@ -663,6 +668,11 @@ metafile = true
 [[files]]
 file = "mods/lazy-dfu-forge.toml"
 hash = "bcb255ef19fee2e867f6605046da08f4857e401cfd98c3c0f92100ad53af821c"
+metafile = true
+
+[[files]]
+file = "mods/libvulpes.toml"
+hash = "179c272a675568e93df5a061b6b05138895a42e385717c57771acae588d3c490"
 metafile = true
 
 [[files]]

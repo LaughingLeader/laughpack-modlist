@@ -1,0 +1,14 @@
+name = "LibVulpes"
+filename = "LibVulpes-1.16.5-1.0.2-25-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3305/524/LibVulpes-1.16.5-1.0.2-25-universal.jar"
+hash-format = "murmur2"
+hash = "1528809187"
+
+[update]
+[update.curseforge]
+file-id = 3305524
+project-id = 236541
+release-channel = "beta"
