@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.toml"
-hash = "05db92fa08fee08bb33d55da4f3bf4d7bb6b8ce418dbf4cb8c743ccedb6fc874"
+hash = "8e078974870c3fb4ca5b1fb2591a36f972a7733ff8d304cd19c2d5db4fb7b71d"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/bad-wither-no-cookie-reloaded.toml"
-hash = "3ec6639b52d3eb14d702cf5e6b6fa4c480bd84b988697a11f3b3314e2cf35f72"
+hash = "7dcb8193479b9ce3aa61304b92a7d595130a5241e79a93909ce6ba2eb7244fb6"
 metafile = true
 
 [[files]]
@@ -287,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.toml"
-hash = "23d17b0e7d8347f1b4d6e59d0c70380c318b27f8500588d66a46b47adab1dc23"
+hash = "1fb12a51944cd64a85a1313cb254cba6673c7023643a46263b5b7162ab136085"
 metafile = true
 
 [[files]]
@@ -303,6 +303,11 @@ metafile = true
 [[files]]
 file = "mods/create.toml"
 hash = "8675778e4bca8e8f9166a42ededd239b64f4898a313b25ab79f3b04b93011748"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.toml"
+hash = "a30959d1d2385b881fd60d19bd6ed11cd04cc9351671b8bfea8d70bc92bcfb31"
 metafile = true
 
 [[files]]
@@ -547,7 +552,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-engineering.toml"
-hash = "998978e4a8e787420f4f052b95b724ccd55f7d4eb1001f585b532dc8c7f7b391"
+hash = "82f52970f62977bc20c5736b67fcd8ebe5c9809f58ae9fccbbf495c06a38cda5"
 metafile = true
 
 [[files]]
