@@ -611,6 +611,11 @@ hash = "a1a4318b5a47ee6129e0f69d24b48d155f92c3098f75e8b495d120a3fa57b3f8"
 metafile = true
 
 [[files]]
+file = "mods/item-stages.toml"
+hash = "7e7f8b3ea5c539d5da707c8e39697a78f7f68ef98670da5098efbb6b852d435e"
+metafile = true
+
+[[files]]
 file = "mods/its-the-little-things.toml"
 hash = "da4319eaa07d1b250d0a74e879f0e9cd466a1906c03f02fecbb70f610e57a7b7"
 metafile = true
