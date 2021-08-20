@@ -1,15 +1,15 @@
 name = "Farsight"
-filename = "farsight-1.5.jar"
+filename = "farsight-1.6.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3366/983/farsight-1.5.jar"
+url = "https://edge.forgecdn.net/files/3431/650/farsight-1.6.jar"
 hash-format = "murmur2"
-hash = "910585662"
+hash = "844992217"
 
 [update]
 [update.curseforge]
-file-id = 3366983
+file-id = 3431650
 project-id = 495693
 release-channel = "beta"
 
