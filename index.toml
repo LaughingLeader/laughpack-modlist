@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.toml"
-hash = "8e078974870c3fb4ca5b1fb2591a36f972a7733ff8d304cd19c2d5db4fb7b71d"
+hash = "81128a56081ae8f3ee41cd00e548e00c8b5c75411027c840e0e45382ece6f061"
 metafile = true
 
 [[files]]
@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.toml"
-hash = "035ef0b3927ddb104be1bc34e8cc9971c8042c4219c6d829e94feb1c68ee9a01"
+hash = "9bdb30e2abe45ad6849ac6f917477a1dc96003b0d0f8b91121bbc5235458855e"
 metafile = true
 
 [[files]]
@@ -612,7 +612,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-stages.toml"
-hash = "7e7f8b3ea5c539d5da707c8e39697a78f7f68ef98670da5098efbb6b852d435e"
+hash = "eee032e948b5c7500c646908075a898e2308a72895bd31240d8af86d6feb2598"
 metafile = true
 
 [[files]]
@@ -1002,7 +1002,7 @@ metafile = true
 
 [[files]]
 file = "mods/trample-stopper.toml"
-hash = "b42d76268ec4672da05b4b76ebec7511c469fb8d0b3f6aaf7b941a0c1bda90f7"
+hash = "aff7c9e105138715f3b184049258d57430b924351655ee24d55331678fb93230"
 metafile = true
 
 [[files]]
