@@ -1,14 +1,14 @@
 name = "Atum 2: Return to the Sands"
-filename = "Atum-1.16.5-2.2.6.jar"
+filename = "Atum-1.16.5-2.2.7.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3406/907/Atum-1.16.5-2.2.6.jar"
+url = "https://edge.forgecdn.net/files/3433/770/Atum-1.16.5-2.2.7.jar"
 hash-format = "murmur2"
-hash = "3498609291"
+hash = "2382622569"
 
 [update]
 [update.curseforge]
-file-id = 3406907
+file-id = 3433770
 project-id = 59621
 release-channel = "beta"

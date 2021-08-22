@@ -1,14 +1,14 @@
 name = "It's the little things"
-filename = "itlt-1.16.x-2.0.0.jar"
+filename = "itlt-1.16.x-2.0.1.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3330/41/itlt-1.16.x-2.0.0.jar"
+url = "https://edge.forgecdn.net/files/3433/503/itlt-1.16.x-2.0.1.jar"
 hash-format = "murmur2"
-hash = "3019874326"
+hash = "93518488"
 
 [update]
 [update.curseforge]
-file-id = 3330041
+file-id = 3433503
 project-id = 232791
 release-channel = "beta"

@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/atum.toml"
-hash = "45672d4c7bcc679b80457713ef586e168e9e082159dcbb292f58feb1bc49eaf8"
+hash = "1f7d564e3515ff3c81eb52d333849120b41d07ec363bebcae4ea6bb88e7979f9"
 metafile = true
 
 [[files]]
@@ -257,12 +257,12 @@ metafile = true
 
 [[files]]
 file = "mods/configured.toml"
-hash = "d9cd76646159f39c8fddafa996772e669ac8bba4447f0f036d3099078561ef0f"
+hash = "9c859cb44057de39e37337c9b60d83bbbef827117e5327827f995dfa5a6a7361"
 metafile = true
 
 [[files]]
 file = "mods/controlling.toml"
-hash = "df70eafbd2c3b35f92f3b0237c41f8811ef48dc5f98c72a2217f9fa92fd4978d"
+hash = "72b5b30a97a4a6ca7cd4d6e592b3822c13cd7dfa01483495cab89dab1bc8b02f"
 metafile = true
 
 [[files]]
@@ -477,7 +477,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferritecore.toml"
-hash = "daf41b6ba905a2a689d12d85f3b25d6f0a3da08bfeb71f23e1627512b32d9acd"
+hash = "5f6c9534312563028af8aff74036fb86a2f5753503d4b72099c6694d014d7477"
 metafile = true
 
 [[files]]
@@ -577,7 +577,7 @@ metafile = true
 
 [[files]]
 file = "mods/its-the-little-things.toml"
-hash = "da4319eaa07d1b250d0a74e879f0e9cd466a1906c03f02fecbb70f610e57a7b7"
+hash = "f08c754dd7c0b7306bb3e08de4b598093586640bbe8bd8e46ee4b3024cacd6a0"
 metafile = true
 
 [[files]]
@@ -897,7 +897,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.toml"
-hash = "4b75d13962f0ae384800ca13d924a3c9e18cf7838a7c3af6685e36378650099f"
+hash = "ec4281840c4cffe42ff6b99a8361545def150952f573a9aaae7ddbe65da13cb5"
 metafile = true
 
 [[files]]
