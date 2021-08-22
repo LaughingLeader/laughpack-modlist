@@ -156,11 +156,6 @@ hash = "ddf074d875f2ae1e320860e8ca375e0773a2ec7fb39a47e90c5b01f4b8564704"
 metafile = true
 
 [[files]]
-file = "mods/buzzier-bees.toml"
-hash = "1aacc2b4059077b3931a6aa110470ae580979902558505443bb2b2490267f6ea"
-metafile = true
-
-[[files]]
 file = "mods/caelus.toml"
 hash = "5b1f4c07ec79c71c756b421914beb459168e374f8321bd3cefcd9b7b562fb930"
 metafile = true
@@ -261,11 +256,6 @@ hash = "a964245ea0fe76e9c50e8558f8090c795ce485c68d7b13a3c6ff38d82d54fbda"
 metafile = true
 
 [[files]]
-file = "mods/compact-ores.toml"
-hash = "70c20028fe5ea61441fb97dd06cddce205192ded63e0ed505f542407d6eac1e3"
-metafile = true
-
-[[files]]
 file = "mods/configured.toml"
 hash = "d9cd76646159f39c8fddafa996772e669ac8bba4447f0f036d3099078561ef0f"
 metafile = true
@@ -331,16 +321,6 @@ hash = "f2b3bddfc655c109607b50d3d762a3d6785bb4afd86ad1a578e99217023c5ea9"
 metafile = true
 
 [[files]]
-file = "mods/curious-elytra.toml"
-hash = "502e0e4a15397f62769e3c0956be984e9dd84d3faeecec628263f7b47d6c1fbc"
-metafile = true
-
-[[files]]
-file = "mods/curious-shulker-boxes.toml"
-hash = "da385b15d734a0b353ad398b12da06609ab6ac6399b9aa1c5df7059f9feca0b7"
-metafile = true
-
-[[files]]
 file = "mods/custom-player-models.toml"
 hash = "03fe4649a42a3ad058735f41cfdbc4ddc449b56dbed5c244e19832bf2bdfd2ec"
 metafile = true
@@ -348,11 +328,6 @@ metafile = true
 [[files]]
 file = "mods/dark-caverns.toml"
 hash = "64bb0acd29e0989a4bd48c78b8b679ed346067bfe94cc915ab6fd64b33dea040"
-metafile = true
-
-[[files]]
-file = "mods/decorative-blocks-modded-compat.toml"
-hash = "b896dc4b7b52cf3d1a2e75fc858ce3aae932585f63d68feb547f5dcab419a6f7"
 metafile = true
 
 [[files]]
@@ -466,28 +441,13 @@ hash = "3b1138e4a95f6984617e913dc693d864e02badeaa681db31b259fb1416fa5f5a"
 metafile = true
 
 [[files]]
-file = "mods/enhanced-mushrooms.toml"
-hash = "4b994f9b85692611b583db72006eb87a30c59232d042202018f6c345cc4460ce"
-metafile = true
-
-[[files]]
 file = "mods/entity-culling.toml"
 hash = "8da30365a9abe56959ade8d381846ce5853972916671d89a3d050328deb68318"
 metafile = true
 
 [[files]]
-file = "mods/environmental.toml"
-hash = "4aafb2371d1358aac39d9914377b6f867e119ec6d55ff23a441b052e89f3bb4f"
-metafile = true
-
-[[files]]
 file = "mods/expandability.toml"
 hash = "a65013f8be06bd0913735f26f2edf911c1bce024590bde959a0fec6fc78bf87b"
-metafile = true
-
-[[files]]
-file = "mods/extra-boats.toml"
-hash = "bee7a30d2eff2ca68358c92fc6740f83d3b5eb76cdd76ea9b82b682f186f03fd"
 metafile = true
 
 [[files]]
@@ -766,11 +726,6 @@ hash = "3d66c5b964952094734e2988a5b8353a0fc51c77a18b56ca8697e7cfcffd8cb1"
 metafile = true
 
 [[files]]
-file = "mods/much-more-mod-compat.toml"
-hash = "15a647bd9a094405b04d609f55dd555e6eedf55f6a35dac6164c42eacd94cfc7"
-metafile = true
-
-[[files]]
 file = "mods/natures-aura.toml"
 hash = "db38fc187041e24a7b7d1e02e271a2a3e0c7f01f726299350c9a073e6d118c7c"
 metafile = true
@@ -828,11 +783,6 @@ metafile = true
 [[files]]
 file = "mods/progressiveperipherals.toml"
 hash = "431d42d7b31ee4904788d632cca449389efd445d5785064e0acbd932459dec10"
-metafile = true
-
-[[files]]
-file = "mods/property-modifier.toml"
-hash = "d232f7a1bdb68a529af61951ad3845cb8dcd5b7996878a612e0c88dcae3a6c13"
 metafile = true
 
 [[files]]
@@ -1021,11 +971,6 @@ hash = "162ae4a05b58a4b2d61bfa2fe272240aa956b3eb66011775f92f2d8d07753635"
 metafile = true
 
 [[files]]
-file = "mods/upgrade-aquatic.toml"
-hash = "7404332cafe5bf13896a1b9dfe2a2e8bfe8968f105f788134f77b0e287455b33"
-metafile = true
-
-[[files]]
 file = "mods/visual-workbench.toml"
 hash = "58bc8b174bd7bb13baca5184ec252d5744bdc0db190ca81e1bf7598e4c3a2ff9"
 metafile = true
@@ -1058,31 +1003,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-api.toml"
 hash = "4c3f8a0d47f58bf9f0875e60312f2fa2ecb021ae81494c401b7253c57a92e5fc"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-caves.toml"
-hash = "e9844fd41a8d2878df4f0a7f2bc4776f08f419f3015613589f94aa211d14aae7"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-dungeons.toml"
-hash = "57396ea5a576b02cc0e96a25eba0735c0081ff3a0aa416afaa701400867f9d6b"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-mineshafts-forge.toml"
-hash = "07998888e7314292d0aa0352ebc703b5aa7e8d1f37f4f51fc6c1b5284b4ec085"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-strongholds.toml"
-hash = "7d62779a3f1f5bc5b4c7a44e6bac539b7527cdec9aa95593a23479cbe3628c7a"
-metafile = true
-
-[[files]]
-file = "mods/yungs-extras.toml"
-hash = "c30bbead295e71357875114b48a7d17c9ecf819419c03978db1ed4b311cba886"
 metafile = true
 
 [[files]]
