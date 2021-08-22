@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/abnormals-core.toml"
-hash = "165683bc82b6b8f3f10f78c16055dfe8fd6dc382dc755336b54173e3231de182"
-metafile = true
-
-[[files]]
 file = "mods/absent-by-design.toml"
 hash = "fb30e73409ece780da57778fe2679552ffd9ad6f73ded574a3bebf3b421cbe60"
 metafile = true
@@ -73,11 +68,6 @@ metafile = true
 [[files]]
 file = "mods/autoreglib.toml"
 hash = "ed2dbc59edaa7a59d44ec39b9f95cae4f0a345060442a9b698e59ed549924525"
-metafile = true
-
-[[files]]
-file = "mods/autumnity.toml"
-hash = "0d42fcbe6650a0aa7592e1a0086ab5bdf98524c869877d6bf9d81cf563120347"
 metafile = true
 
 [[files]]
