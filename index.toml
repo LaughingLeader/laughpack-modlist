@@ -11,11 +11,6 @@ hash = "fb30e73409ece780da57778fe2679552ffd9ad6f73ded574a3bebf3b421cbe60"
 metafile = true
 
 [[files]]
-file = "mods/abundance.toml"
-hash = "ee4b8aa8a3691db020c5b380b5845a42bbac76f12cf69f31be08ef3ed248d4e2"
-metafile = true
-
-[[files]]
 file = "mods/advanced-peripherals.toml"
 hash = "4b16b34cd30e91e8f16bc707717e7a09b5726daa1eeefe5a5e4ecbe92ff5e76a"
 metafile = true
@@ -66,11 +61,6 @@ hash = "ac6c26aedbdbcccf00f94920a63e4937ec2e5bd790613e85ee994e6349988c8f"
 metafile = true
 
 [[files]]
-file = "mods/atmospheric.toml"
-hash = "571f49b0fbd8380db99910cbcb3c7575b0da22cae507e61e2b77fca4be081c92"
-metafile = true
-
-[[files]]
 file = "mods/attributefix.toml"
 hash = "72d71522a6a013aad66921d2d5f359300e9e003761105b7277fb1d69e5a799ce"
 metafile = true
@@ -88,16 +78,6 @@ metafile = true
 [[files]]
 file = "mods/autumnity.toml"
 hash = "0d42fcbe6650a0aa7592e1a0086ab5bdf98524c869877d6bf9d81cf563120347"
-metafile = true
-
-[[files]]
-file = "mods/bad-wither-no-cookie-reloaded.toml"
-hash = "7dcb8193479b9ce3aa61304b92a7d595130a5241e79a93909ce6ba2eb7244fb6"
-metafile = true
-
-[[files]]
-file = "mods/berry-good.toml"
-hash = "b78067d00c0bee3e5c5e8bcc4479f30e5d2d676faef3666f58cb563cf227ee26"
 metafile = true
 
 [[files]]
