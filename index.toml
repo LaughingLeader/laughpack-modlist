@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/advanced-peripherals.toml"
-hash = "4b16b34cd30e91e8f16bc707717e7a09b5726daa1eeefe5a5e4ecbe92ff5e76a"
+hash = "1f49876eca376a3f9e1d1b7d7b90d8d5f9d342e34b604f6c1fe503027e1039e0"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.toml"
-hash = "9647a2f72c8b2c794697d0d0bb62b1e0229f42a16a3cdc938c1a6a5f9480ceb6"
+hash = "6bdecf9a4a06fd0593c67d552ea3773dfd3109d5547459638be6c1e4412a453f"
 metafile = true
 
 [[files]]
@@ -447,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferritecore.toml"
-hash = "5f6c9534312563028af8aff74036fb86a2f5753503d4b72099c6694d014d7477"
+hash = "b6481e286e28f957c75eb0b7a34ce4af856360031cdd8926a4d5da3276d0cae4"
 metafile = true
 
 [[files]]
@@ -542,7 +542,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-stages.toml"
-hash = "eee032e948b5c7500c646908075a898e2308a72895bd31240d8af86d6feb2598"
+hash = "0e068d11ba41395f93b3abdfe76458176ca7d953f5eecc34c693501f720a29ff"
 metafile = true
 
 [[files]]
@@ -557,7 +557,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.toml"
-hash = "5f3b03591a33f15d45c6d78438f1702fab8d1373ac864742d7cc2022cca618ef"
+hash = "0cb97400ca9de2c2c62d5c0c14448a6ab682bf965036d51755b144f0eb56269b"
 metafile = true
 
 [[files]]
@@ -607,7 +607,7 @@ metafile = true
 
 [[files]]
 file = "mods/libvulpes.toml"
-hash = "179c272a675568e93df5a061b6b05138895a42e385717c57771acae588d3c490"
+hash = "1d45c04fb6eab883e0ed04058366a837d5d62d692cbe16fa3dd78b507573732f"
 metafile = true
 
 [[files]]
@@ -752,7 +752,7 @@ metafile = true
 
 [[files]]
 file = "mods/progressiveperipherals.toml"
-hash = "431d42d7b31ee4904788d632cca449389efd445d5785064e0acbd932459dec10"
+hash = "df3ee3311065db39b67424a951b657b3bb57be7bdddcba004f8e3a52d4cde9df"
 metafile = true
 
 [[files]]
@@ -832,7 +832,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.toml"
-hash = "6d2be4b7d5cf35006d38038c31644b652d54de8e8f5298d6227e0d67344fe3fc"
+hash = "030bda30be6dde2503e4d997abce3e46bb7e656a1d3cb0dec2ba33c48fc7e177"
 metafile = true
 
 [[files]]
@@ -867,7 +867,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.toml"
-hash = "ec4281840c4cffe42ff6b99a8361545def150952f573a9aaae7ddbe65da13cb5"
+hash = "3af9de87bf2d1869eee01977bbcfa954d7ada5a1ddbf774f07798ac29822db1d"
 metafile = true
 
 [[files]]

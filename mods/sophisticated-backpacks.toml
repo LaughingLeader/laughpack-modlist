@@ -1,14 +1,14 @@
 name = "Sophisticated Backpacks"
-filename = "sophisticatedbackpacks-1.16.5-3.2.4.316.jar"
+filename = "sophisticatedbackpacks-1.16.5-3.2.4.321.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3434/494/sophisticatedbackpacks-1.16.5-3.2.4.316.jar"
+url = "https://edge.forgecdn.net/files/3435/216/sophisticatedbackpacks-1.16.5-3.2.4.321.jar"
 hash-format = "murmur2"
-hash = "1143941816"
+hash = "3070940918"
 
 [update]
 [update.curseforge]
-file-id = 3434494
+file-id = 3435216
 project-id = 422301
 release-channel = "beta"

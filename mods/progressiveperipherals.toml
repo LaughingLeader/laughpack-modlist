@@ -1,14 +1,14 @@
 name = "ProgressivePeripherals"
-filename = "progressiveperipherals-0.0.8.jar"
+filename = "progressiveperipherals-1.16.5-0.0.9.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3424/996/progressiveperipherals-0.0.8.jar"
+url = "https://edge.forgecdn.net/files/3435/326/progressiveperipherals-1.16.5-0.0.9.jar"
 hash-format = "murmur2"
-hash = "832366732"
+hash = "3924307763"
 
 [update]
 [update.curseforge]
-file-id = 3424996
+file-id = 3435326
 project-id = 506252
 release-channel = "beta"
