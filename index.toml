@@ -492,7 +492,7 @@ metafile = true
 
 [[files]]
 file = "mods/hourglass.toml"
-hash = "ea47de7a4c7993689c58e00a376d4adba0149bf73d3b970c44e3ab90321e056c"
+hash = "2204764cd325fa41c8776cf94b00790d9061d7e9959232571a7bbd4de8e74d7c"
 metafile = true
 
 [[files]]
@@ -867,7 +867,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.toml"
-hash = "3af9de87bf2d1869eee01977bbcfa954d7ada5a1ddbf774f07798ac29822db1d"
+hash = "fecf7ab20d3608db60c3c7e790633604dde325920a18d1397c2e7ad811efc227"
 metafile = true
 
 [[files]]
