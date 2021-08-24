@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/apotheosis.toml"
-hash = "4bcb13e15701145fd57529de04783edc1a531e6d51eb37880dc64a6c5971bb32"
+hash = "16633bf7f6d7d0be6a003b1514bfaa60a938709a2aa6218da9663166be14bdea"
 metafile = true
 
 [[files]]
@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-forge.toml"
-hash = "7ed815e93a1d11ea2f6d3f788ecb7fc6c9e14055a9b5a0c7a14e038f95150d0d"
+hash = "9fe5c68b28c067238994839fdb4aad01bca25cd229a23f0bb9c7d218840b030a"
 metafile = true
 
 [[files]]
@@ -177,12 +177,12 @@ metafile = true
 
 [[files]]
 file = "mods/chunkpregenerator.toml"
-hash = "6202c15f5f6396387aed16e66d656153f967e63e6d2948dbf0fddcdadbfbfb6c"
+hash = "0008bfd029209b03ece89a16e057b9937ff8170d46b1bf5afc04e9d6c88e23bd"
 metafile = true
 
 [[files]]
 file = "mods/citadel.toml"
-hash = "dc7ff09a7dcde33964ce50155408fa2f21251dc95be329fcd7f2a97a6b0d7c9b"
+hash = "9a8e89e4aab225fd3b7074af67b04116733ea5b1c3f0c2ef3c9b819f780b70d8"
 metafile = true
 
 [[files]]
@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.toml"
-hash = "9bdb30e2abe45ad6849ac6f917477a1dc96003b0d0f8b91121bbc5235458855e"
+hash = "d6482c029c31084bba1d390a000377966962205db235658cede1b7159f6584da"
 metafile = true
 
 [[files]]
@@ -737,7 +737,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.toml"
-hash = "e0088f03708b61c69e8c5f95fd830f81e7c40481ae381dd0431170661b608e01"
+hash = "39a416b0efcbe5dae6fa4fbe261e93928d43f0111ac701361f7c21edfb3f666b"
 metafile = true
 
 [[files]]
