@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/apotheosis.toml"
-hash = "16633bf7f6d7d0be6a003b1514bfaa60a938709a2aa6218da9663166be14bdea"
+hash = "43c403ff321d57d6113194814f0355d8110d26e7a4b64e39122d4e5f6c67587c"
 metafile = true
 
 [[files]]
@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/comforts.toml"
-hash = "a964245ea0fe76e9c50e8558f8090c795ce485c68d7b13a3c6ff38d82d54fbda"
+hash = "2ff1da75dda9d4059dd033c44da911c22502e1483f6756d9ced5db9b718e5c02"
 metafile = true
 
 [[files]]
@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.toml"
-hash = "d6482c029c31084bba1d390a000377966962205db235658cede1b7159f6584da"
+hash = "4e118ff280e06eb02ac7c197542679f1c927a07015d715faf78c765159a9c6c3"
 metafile = true
 
 [[files]]
@@ -477,7 +477,7 @@ metafile = true
 
 [[files]]
 file = "mods/game-stages.toml"
-hash = "f9eb41fe7c6580066e3a1702f7a6a87d7836dfa14c75070ca3913dfcba6d819c"
+hash = "bc562f918f5c007caf1246cdb48b717a4b08e4fac1ad74cf360b2e5929668c6e"
 metafile = true
 
 [[files]]
@@ -492,7 +492,7 @@ metafile = true
 
 [[files]]
 file = "mods/hourglass.toml"
-hash = "2204764cd325fa41c8776cf94b00790d9061d7e9959232571a7bbd4de8e74d7c"
+hash = "e9d221996ae797128b608ce48b330e517ac1e0e7859cb979fbe8cf6159fe05eb"
 metafile = true
 
 [[files]]
@@ -542,7 +542,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-stages.toml"
-hash = "0e068d11ba41395f93b3abdfe76458176ca7d953f5eecc34c693501f720a29ff"
+hash = "5be047733e9b0d6805c120697af795cac6befb10f0d0445c7e9996256b802716"
 metafile = true
 
 [[files]]
@@ -557,7 +557,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.toml"
-hash = "0cb97400ca9de2c2c62d5c0c14448a6ab682bf965036d51755b144f0eb56269b"
+hash = "5cefa42ba8f3e255e9469f8bff8539c60619e4b2c785a397e780e21d1f7bbed0"
 metafile = true
 
 [[files]]
@@ -592,7 +592,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs-forge.toml"
-hash = "791878a01eef907b81b5ccdb70def1ba97490eef866bea02934992951e604871"
+hash = "9c671d144f6300ec24dd7ad6ffdc465e47d65d7b9c7c4009e43368a9fb02ae87"
 metafile = true
 
 [[files]]
