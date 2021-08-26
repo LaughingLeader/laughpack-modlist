@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/advancement-plaques.toml"
-hash = "2fceff3266218d0fbc89904aaa94b8cb1a0e4985aa56a800678dbcd06a86645d"
+hash = "71121cfdda10a90f0dfbd4ada10c85c1098eb2d812ee9c47d85248780ad530b1"
 metafile = true
 
 [[files]]
@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/alexs-mobs.toml"
-hash = "b3ce874660b53066b78be96b2d686ffe5937565ee9c18ae6dc481e1e2e2c2c6b"
+hash = "fdd25239d9643a2eb907c1bee2875d173cf7d00ad891f1127893439f0d58316a"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.toml"
-hash = "3065e9a7f4d449730f90de0cd1b3e27df8b7b19e50387bee7e364e9827f14165"
+hash = "a5299721513f54560ce85707af067ae0919a68b66faa508433bed1e4f665a69a"
 metafile = true
 
 [[files]]
@@ -967,7 +967,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.toml"
-hash = "039ccb164a8e4dc7dcdc338202fba9e31d95e53211a49acdd1cbe7950a8cddeb"
+hash = "9cde9b084af72145d64ce1e0f3d690b9444badcff68335db7980053677b07c46"
 metafile = true
 
 [[files]]
