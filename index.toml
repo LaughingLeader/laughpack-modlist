@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/advanced-rocketry.toml"
-hash = "ab268cafb8ec4e40c32575a4d54c5fc5804a8cabd9ed32d959fd1661bb2207d8"
+hash = "62e45c5feb97a5a38172bbd084b1f7794638d00007c2ecda73e93075ee6530b8"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.toml"
-hash = "81128a56081ae8f3ee41cd00e548e00c8b5c75411027c840e0e45382ece6f061"
+hash = "3065e9a7f4d449730f90de0cd1b3e27df8b7b19e50387bee7e364e9827f14165"
 metafile = true
 
 [[files]]
@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.toml"
-hash = "4e118ff280e06eb02ac7c197542679f1c927a07015d715faf78c765159a9c6c3"
+hash = "28e48ba5d197f4d4d0122a12652713af39a1331658c76b541ab5d09e126e3ddb"
 metafile = true
 
 [[files]]
@@ -552,7 +552,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.toml"
-hash = "afd510f1c881327d466a0eb89b79723bd459b1efb1487cde91b3a21d9d657cfe"
+hash = "df8de2040736147f85ffe9db88f0fb45d017ea8fea465e4a6444c499b2899c1a"
 metafile = true
 
 [[files]]
@@ -632,7 +632,7 @@ metafile = true
 
 [[files]]
 file = "mods/mantle.toml"
-hash = "2e4a4fd036eb14ad5539740ec4e838d2c6c53fe2111abcf0306c041cc72b142a"
+hash = "27c6f8450c1535037091cd988a4b9adb09f75ee2c770b64c11ed2b22ec7b9413"
 metafile = true
 
 [[files]]
