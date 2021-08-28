@@ -1,14 +1,14 @@
 name = "Ars Nouveau"
-filename = "ars_nouveau-1.16.5-1.22.1.jar"
+filename = "ars_nouveau-1.16.5-1.22.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3439/724/ars_nouveau-1.16.5-1.22.1.jar"
+url = "https://edge.forgecdn.net/files/3440/396/ars_nouveau-1.16.5-1.22.2.jar"
 hash-format = "murmur2"
-hash = "4095175666"
+hash = "2080569075"
 
 [update]
 [update.curseforge]
-file-id = 3439724
+file-id = 3440396
 project-id = 401955
 release-channel = "beta"

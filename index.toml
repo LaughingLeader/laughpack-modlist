@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.toml"
-hash = "a5299721513f54560ce85707af067ae0919a68b66faa508433bed1e4f665a69a"
+hash = "d49a1fe256e55f15101741f0d8e30cb039533f2cc9d132d6ec9cb37dc3de2852"
 metafile = true
 
 [[files]]
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/citadel.toml"
-hash = "9a8e89e4aab225fd3b7074af67b04116733ea5b1c3f0c2ef3c9b819f780b70d8"
+hash = "4d6bdb8ba11e4533ed710587fc66679ba3b740296746593d218846b8b7f95a2c"
 metafile = true
 
 [[files]]
@@ -212,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/codechicken-lib-1-8.toml"
-hash = "d637d9dd519633db3cbeeda733b698637619917e06a9096751fd10ec616838f3"
+hash = "c9b7d3be056908b74cca6e56020cf75cdbb5bee3c2404f1f68367d43f03b7df1"
 metafile = true
 
 [[files]]
@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.toml"
-hash = "28e48ba5d197f4d4d0122a12652713af39a1331658c76b541ab5d09e126e3ddb"
+hash = "c808115fe61e978caf6de1dd2bcc6fb2132f1ee39eb099b3dda7eaa9612554c6"
 metafile = true
 
 [[files]]
@@ -612,7 +612,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.toml"
-hash = "667b7d99b1bbf21d2084d2bca891cb3d2a917dde236cd3a99d150937067c7bd4"
+hash = "652e8cbd6a08ade6b2cff72363ffb5f9cbda9661a7f9e8cf5d81f17effa8cc5d"
 metafile = true
 
 [[files]]
