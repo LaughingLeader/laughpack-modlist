@@ -1,14 +1,14 @@
 name = "Dark Caverns"
-filename = "dark_caverns-1.16.5-1.1.0.jar"
+filename = "dark_caverns-1.16.5-1.1.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3430/422/dark_caverns-1.16.5-1.1.0.jar"
+url = "https://edge.forgecdn.net/files/3442/77/dark_caverns-1.16.5-1.1.1.jar"
 hash-format = "murmur2"
-hash = "3096920242"
+hash = "1909165059"
 
 [update]
 [update.curseforge]
-file-id = 3430422
+file-id = 3442077
 project-id = 508341
 release-channel = "beta"

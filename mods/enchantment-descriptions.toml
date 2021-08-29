@@ -1,19 +1,19 @@
 name = "Enchantment Descriptions"
-filename = "EnchantmentDescriptions-1.16.5-7.0.14.jar"
+filename = "EnchantmentDescriptions-1.16.5-7.0.16.jar"
 side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3442/267/EnchantmentDescriptions-1.16.5-7.0.16.jar"
+hash-format = "murmur2"
+hash = "1606514553"
+
+[update]
+[update.curseforge]
+file-id = 3442267
+project-id = 250419
+release-channel = "beta"
 
 [option]
 optional = true
 description = "Enchantment Descriptions is a light weight client-side mod that adds descriptions of enchantments to the tool tip of enchanted books. This mod supports all vanilla enchantments in over 13 languages! Most modded enchantments are also supported."
 default = true
-
-[download]
-url = "https://edge.forgecdn.net/files/3363/585/EnchantmentDescriptions-1.16.5-7.0.14.jar"
-hash-format = "murmur2"
-hash = "1267835223"
-
-[update]
-[update.curseforge]
-file-id = 3363585
-project-id = 250419
-release-channel = "beta"

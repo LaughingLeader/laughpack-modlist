@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.toml"
-hash = "d49a1fe256e55f15101741f0d8e30cb039533f2cc9d132d6ec9cb37dc3de2852"
+hash = "c5a9caad65912591916fb3fe7a650f86d1c80116bca5940b35b2dde414833663"
 metafile = true
 
 [[files]]
@@ -297,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/dark-caverns.toml"
-hash = "64bb0acd29e0989a4bd48c78b8b679ed346067bfe94cc915ab6fd64b33dea040"
+hash = "a78e7e7acc55aae56271bfdda2f62f4309b88e61fceec2de502b9195a4f817cc"
 metafile = true
 
 [[files]]
@@ -387,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.toml"
-hash = "c51ce60071a4193e30b590b94def771508a9f59c4cce8f94655dc6fe3566c0e0"
+hash = "3d8d021763de82111b8b4ea7e244ee21edc6d779a53461dd80fa540a2179f72f"
 metafile = true
 
 [[files]]
@@ -777,7 +777,7 @@ metafile = true
 
 [[files]]
 file = "mods/recipe-stages.toml"
-hash = "e504e47f50aa8ececf31950be2f324306d149fdb404892e0934873fa2437f60d"
+hash = "3df936c300c4107b7f0ac70b29d6bde2d9c45355301638e8df741136b8c397af"
 metafile = true
 
 [[files]]

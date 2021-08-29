@@ -1,14 +1,14 @@
 name = "Recipe Stages"
-filename = "RecipeStages-2.0.0.18.jar"
+filename = "RecipeStages-2.0.0.20.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3395/210/RecipeStages-2.0.0.18.jar"
+url = "https://edge.forgecdn.net/files/3442/297/RecipeStages-2.0.0.20.jar"
 hash-format = "murmur2"
-hash = "2909250167"
+hash = "611420790"
 
 [update]
 [update.curseforge]
-file-id = 3395210
+file-id = 3442297
 project-id = 280554
 release-channel = "beta"
