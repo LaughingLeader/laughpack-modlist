@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-forge.toml"
-hash = "9fe5c68b28c067238994839fdb4aad01bca25cd229a23f0bb9c7d218840b030a"
+hash = "6ea0538e4af05279bd88256ee5baf4b3c77400e46b1358e95f04242a1cd9514e"
 metafile = true
 
 [[files]]
@@ -592,7 +592,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs-forge.toml"
-hash = "9c671d144f6300ec24dd7ad6ffdc465e47d65d7b9c7c4009e43368a9fb02ae87"
+hash = "fff353b9d5e6f56eb68b45284990a4d5558c2bfb2baa7c399d4482a56177910e"
 metafile = true
 
 [[files]]
@@ -612,7 +612,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.toml"
-hash = "652e8cbd6a08ade6b2cff72363ffb5f9cbda9661a7f9e8cf5d81f17effa8cc5d"
+hash = "613acfa5ed076e8e78d907c5d3772fa3c9d7526395d66e78082c84942a749d27"
 metafile = true
 
 [[files]]
@@ -627,7 +627,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-windows.toml"
-hash = "0a1aa803ddd659182a3c9b88e52a4f75af062c07ac4eb1eeff56f57ed3c2d4b9"
+hash = "820bb588a93bac59d036afd24735857a438aec47bbb2693147e68aa2b0826877"
 metafile = true
 
 [[files]]
