@@ -1,14 +1,14 @@
 name = "Druidcraft"
-filename = "Druidcraft-1.16.5-0.4.52.jar"
+filename = "Druidcraft-1.16.5-0.4.53.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3177/267/Druidcraft-1.16.5-0.4.52.jar"
+url = "https://edge.forgecdn.net/files/3455/439/Druidcraft-1.16.5-0.4.53.jar"
 hash-format = "murmur2"
-hash = "2333922851"
+hash = "3969097964"
 
 [update]
 [update.curseforge]
-file-id = 3177267
+file-id = 3455439
 project-id = 340991
 release-channel = "beta"
